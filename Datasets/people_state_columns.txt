@@ -1,0 +1,301 @@
+year : Academic Year
+aun : Administrative Unit Number
+nces_leaid : Agency ID - NCES Assigned [District] Latest available year
+leaname : Local Education Agency (LEA) Name
+leatype : Local Education Agency (LEA) Type
+schoolnumber : PA School Code
+nces_schid : nces_schid
+schoolname : School Name
+opendate : Open Date
+closedate : Closed Date
+schooltype : School Type
+county : County
+gradeserved_pk : Grade Served: All Pre-K
+gradeserved_pka : Grade Served: AM Pre-K
+gradeserved_pkp : Grade Served: PM Pre-K
+gradeserved_pkf : Grade Served: Full Day Pre-K
+gradeserved_k : Grade Served: All Kindergarten
+gradeserved_k4a : Grade Served: Age 4 AM Kindergarten
+gradeserved_k4p : Grade Served: Age 4 PM Kindergarten
+gradeserved_k4f : Grade Served: Age 4 Full Day Kindergarten
+gradeserved_k5a : Grade Served: Age 5 AM Kindergarten
+gradeserved_k5p : Grade Served: Age 5 PM Kindergarten
+gradeserved_k5f : Grade Served: Age 5 Full Day Kindergarten
+gradeserved_1st : Grade Served: 1st Grade
+gradeserved_2nd : Grade Served: 2nd Grade
+gradeserved_3rd : Grade Served: 3rd Grade
+gradeserved_4th : Grade Served: 4th Grade
+gradeserved_5th : Grade Served: 5th Grade
+gradeserved_6th : Grade Served: 6th Grade
+gradeserved_7th : Grade Served: 7th Grade
+gradeserved_8th : Grade Served: 8th Grade
+gradeserved_9th : Grade Served: 9th Grade
+gradeserved_10th : Grade Served: 10th Grade
+gradeserved_11th : Grade Served: 11th Grade
+gradeserved_12th : Grade Served: 12th Grade
+gradeserved_ug : Grade Served: ug Grade
+enroll_prek : Enrollment: Pre-K. Total.
+enroll_kind : Enrollment: Kindergarten. Total.
+enroll_gr01 : Enrollment: Grade 1. Total.
+enroll_gr02 : Enrollment: Grade 2. Total.
+enroll_gr03 : Enrollment: Grade 3. Total.
+enroll_gr04 : Enrollment: Grade 4. Total.
+enroll_gr05 : Enrollment: Grade 5. Total.
+enroll_gr06 : Enrollment: Grade 6. Total.
+enroll_gr07 : Enrollment: Grade 7. Total.
+enroll_gr08 : Enrollment: Grade 8. Total.
+enroll_gr09 : Enrollment: Grade 9. Total.
+enroll_gr10 : Enrollment: Grade 10. Total.
+enroll_gr11 : Enrollment: Grade 11. Total.
+enroll_gr12 : Enrollment: Grade 12. Total.
+enroll_ungr : Enrollment: Ungraded. Total.
+enroll_allgrades_total : Enrollment: All Grades. Total.
+enroll_allgrades_ame : Enrollment: All Grades. American Native.
+enroll_allgrades_asian : Enrollment: All Grades. Asian or Pacific Islander.
+enroll_allgrades_hisp : Enrollment: All Grades. Hispanic.
+enroll_allgrades_black : Enrollment: All Grades. Black.
+enroll_allgrades_white : Enrollment: All Grades. White.
+enroll_allgrades_tr : Enrollment: All Grades. Two or More Races.
+enroll_prek_m_ame : Enrollment: Pre-K. Male. American Native.
+enroll_prek_f_ame : Enrollment: Pre-K. Female. American Native.
+enroll_prek_m_asian : Enrollment: Pre-K. Male. Asian or Pacific Islander.
+enroll_prek_f_asian : Enrollment: Pre-K. Female. Asian or Pacific Islander.
+enroll_prek_m_hisp : Enrollment: Pre-K. Male. Hispanic.
+enroll_prek_f_hisp : Enrollment: Pre-K. Female. Hispanic.
+enroll_prek_m_black : Enrollment: Pre-K. Male. Black.
+enroll_prek_f_black : Enrollment: Pre-K. Female. Black.
+enroll_prek_m_white : Enrollment: Pre-K. Male. White.
+enroll_prek_f_white : Enrollment: Pre-K. Female. White.
+enroll_prek_m_tr : Enrollment: Pre-K. Male. Two or More Races.
+enroll_prek_f_tr : Enrollment: Pre-K. Female. Two or More Races.
+enroll_kind_m_ame : Enrollment: Kindergarten. Male. American Native.
+enroll_kind_f_ame : Enrollment: Kindergarten. Female. American Native.
+enroll_kind_m_asian : Enrollment: Kindergarten. Male. Asian or Pacific Islander.
+enroll_kind_f_asian : Enrollment: Kindergarten. Female. Asian or Pacific Islander.
+enroll_kind_m_hisp : Enrollment: Kindergarten. Male. Hispanic.
+enroll_kind_f_hisp : Enrollment: Kindergarten. Female. Hispanic.
+enroll_kind_m_black : Enrollment: Kindergarten. Male. Black.
+enroll_kind_f_black : Enrollment: Kindergarten. Female. Black.
+enroll_kind_m_white : Enrollment: Kindergarten. Male. White.
+enroll_kind_f_white : Enrollment: Kindergarten. Female. White.
+enroll_kind_m_tr : Enrollment: Kindergarten. Male. Two or More Races.
+enroll_kind_f_tr : Enrollment: Kindergarten. Female. Two or More Races.
+enroll_gr01_m_ame : Enrollment: Grade 1. Male. American Native.
+enroll_gr01_f_ame : Enrollment: Grade 1. Female. American Native.
+enroll_gr01_m_asian : Enrollment: Grade 1. Male. Asian or Pacific Islander.
+enroll_gr01_f_asian : Enrollment: Grade 1. Female. Asian or Pacific Islander.
+enroll_gr01_m_hisp : Enrollment: Grade 1. Male. Hispanic.
+enroll_gr01_f_hisp : Enrollment: Grade 1. Female. Hispanic.
+enroll_gr01_m_black : Enrollment: Grade 1. Male. Black.
+enroll_gr01_f_black : Enrollment: Grade 1. Female. Black.
+enroll_gr01_m_white : Enrollment: Grade 1. Male. White.
+enroll_gr01_f_white : Enrollment: Grade 1. Female. White.
+enroll_gr01_m_tr : Enrollment: Grade 1. Male. Two or More Races.
+enroll_gr01_f_tr : Enrollment: Grade 1. Female. Two or More Races.
+enroll_gr02_m_ame : Enrollment: Grade 2. Male. American Native.
+enroll_gr02_f_ame : Enrollment: Grade 2. Female. American Native.
+enroll_gr02_m_asian : Enrollment: Grade 2. Male. Asian or Pacific Islander.
+enroll_gr02_f_asian : Enrollment: Grade 2. Female. Asian or Pacific Islander.
+enroll_gr02_m_hisp : Enrollment: Grade 2. Male. Hispanic.
+enroll_gr02_f_hisp : Enrollment: Grade 2. Female. Hispanic.
+enroll_gr02_m_black : Enrollment: Grade 2. Male. Black.
+enroll_gr02_f_black : Enrollment: Grade 2. Female. Black.
+enroll_gr02_m_white : Enrollment: Grade 2. Male. White.
+enroll_gr02_f_white : Enrollment: Grade 2. Female. White.
+enroll_gr02_m_tr : Enrollment: Grade 2. Male. Two or More Races.
+enroll_gr02_f_tr : Enrollment: Grade 2. Female. Two or More Races.
+enroll_gr03_m_ame : Enrollment: Grade 3. Male. American Native.
+enroll_gr03_f_ame : Enrollment: Grade 3. Female. American Native.
+enroll_gr03_m_asian : Enrollment: Grade 3. Male. Asian or Pacific Islander.
+enroll_gr03_f_asian : Enrollment: Grade 3. Female. Asian or Pacific Islander.
+enroll_gr03_m_hisp : Enrollment: Grade 3. Male. Hispanic.
+enroll_gr03_f_hisp : Enrollment: Grade 3. Female. Hispanic.
+enroll_gr03_m_black : Enrollment: Grade 3. Male. Black.
+enroll_gr03_f_black : Enrollment: Grade 3. Female. Black.
+enroll_gr03_m_white : Enrollment: Grade 3. Male. White.
+enroll_gr03_f_white : Enrollment: Grade 3. Female. White.
+enroll_gr03_m_tr : Enrollment: Grade 3. Male. Two or More Races.
+enroll_gr03_f_tr : Enrollment: Grade 3. Female. Two or More Races.
+enroll_gr04_m_ame : Enrollment: Grade 4. Male. American Native.
+enroll_gr04_f_ame : Enrollment: Grade 4. Female. American Native.
+enroll_gr04_m_asian : Enrollment: Grade 4. Male. Asian or Pacific Islander.
+enroll_gr04_f_asian : Enrollment: Grade 4. Female. Asian or Pacific Islander.
+enroll_gr04_m_hisp : Enrollment: Grade 4. Male. Hispanic.
+enroll_gr04_f_hisp : Enrollment: Grade 4. Female. Hispanic.
+enroll_gr04_m_black : Enrollment: Grade 4. Male. Black.
+enroll_gr04_f_black : Enrollment: Grade 4. Female. Black.
+enroll_gr04_m_white : Enrollment: Grade 4. Male. White.
+enroll_gr04_f_white : Enrollment: Grade 4. Female. White.
+enroll_gr04_m_tr : Enrollment: Grade 4. Male. Two or More Races.
+enroll_gr04_f_tr : Enrollment: Grade 4. Female. Two or More Races.
+enroll_gr05_m_ame : Enrollment: Grade 5. Male. American Native.
+enroll_gr05_f_ame : Enrollment: Grade 5. Female. American Native.
+enroll_gr05_m_asian : Enrollment: Grade 5. Male. Asian or Pacific Islander.
+enroll_gr05_f_asian : Enrollment: Grade 5. Female. Asian or Pacific Islander.
+enroll_gr05_m_hisp : Enrollment: Grade 5. Male. Hispanic.
+enroll_gr05_f_hisp : Enrollment: Grade 5. Female. Hispanic.
+enroll_gr05_m_black : Enrollment: Grade 5. Male. Black.
+enroll_gr05_f_black : Enrollment: Grade 5. Female. Black.
+enroll_gr05_m_white : Enrollment: Grade 5. Male. White.
+enroll_gr05_f_white : Enrollment: Grade 5. Female. White.
+enroll_gr05_m_tr : Enrollment: Grade 5. Male. Two or More Races.
+enroll_gr05_f_tr : Enrollment: Grade 5. Female. Two or More Races.
+enroll_gr06_m_ame : Enrollment: Grade 6. Male. American Native.
+enroll_gr06_f_ame : Enrollment: Grade 6. Female. American Native.
+enroll_gr06_m_asian : Enrollment: Grade 6. Male. Asian or Pacific Islander.
+enroll_gr06_f_asian : Enrollment: Grade 6. Female. Asian or Pacific Islander.
+enroll_gr06_m_hisp : Enrollment: Grade 6. Male. Hispanic.
+enroll_gr06_f_hisp : Enrollment: Grade 6. Female. Hispanic.
+enroll_gr06_m_black : Enrollment: Grade 6. Male. Black.
+enroll_gr06_f_black : Enrollment: Grade 6. Female. Black.
+enroll_gr06_m_white : Enrollment: Grade 6. Male. White.
+enroll_gr06_f_white : Enrollment: Grade 6. Female. White.
+enroll_gr06_m_tr : Enrollment: Grade 6. Male. Two or More Races.
+enroll_gr06_f_tr : Enrollment: Grade 6. Female. Two or More Races.
+enroll_gr07_m_ame : Enrollment: Grade 7. Male. American Native.
+enroll_gr07_f_ame : Enrollment: Grade 7. Female. American Native.
+enroll_gr07_m_asian : Enrollment: Grade 7. Male. Asian or Pacific Islander.
+enroll_gr07_f_asian : Enrollment: Grade 7. Female. Asian or Pacific Islander.
+enroll_gr07_m_hisp : Enrollment: Grade 7. Male. Hispanic.
+enroll_gr07_f_hisp : Enrollment: Grade 7. Female. Hispanic.
+enroll_gr07_m_black : Enrollment: Grade 7. Male. Black.
+enroll_gr07_f_black : Enrollment: Grade 7. Female. Black.
+enroll_gr07_m_white : Enrollment: Grade 7. Male. White.
+enroll_gr07_f_white : Enrollment: Grade 7. Female. White.
+enroll_gr07_m_tr : Enrollment: Grade 7. Male. Two or More Races.
+enroll_gr07_f_tr : Enrollment: Grade 7. Female. Two or More Races.
+enroll_gr08_m_ame : Enrollment: Grade 8. Male. American Native.
+enroll_gr08_f_ame : Enrollment: Grade 8. Female. American Native.
+enroll_gr08_m_asian : Enrollment: Grade 8. Male. Asian or Pacific Islander.
+enroll_gr08_f_asian : Enrollment: Grade 8. Female. Asian or Pacific Islander.
+enroll_gr08_m_hisp : Enrollment: Grade 8. Male. Hispanic.
+enroll_gr08_f_hisp : Enrollment: Grade 8. Female. Hispanic.
+enroll_gr08_m_black : Enrollment: Grade 8. Male. Black.
+enroll_gr08_f_black : Enrollment: Grade 8. Female. Black.
+enroll_gr08_m_white : Enrollment: Grade 8. Male. White.
+enroll_gr08_f_white : Enrollment: Grade 8. Female. White.
+enroll_gr08_m_tr : Enrollment: Grade 8. Male. Two or More Races.
+enroll_gr08_f_tr : Enrollment: Grade 8. Female. Two or More Races.
+enroll_gr09_m_ame : Enrollment: Grade 9. Male. American Native.
+enroll_gr09_f_ame : Enrollment: Grade 9. Female. American Native.
+enroll_gr09_m_asian : Enrollment: Grade 9. Male. Asian or Pacific Islander.
+enroll_gr09_f_asian : Enrollment: Grade 9. Female. Asian or Pacific Islander.
+enroll_gr09_m_hisp : Enrollment: Grade 9. Male. Hispanic.
+enroll_gr09_f_hisp : Enrollment: Grade 9. Female. Hispanic.
+enroll_gr09_m_black : Enrollment: Grade 9. Male. Black.
+enroll_gr09_f_black : Enrollment: Grade 9. Female. Black.
+enroll_gr09_m_white : Enrollment: Grade 9. Male. White.
+enroll_gr09_f_white : Enrollment: Grade 9. Female. White.
+enroll_gr09_m_tr : Enrollment: Grade 9. Male. Two or More Races.
+enroll_gr09_f_tr : Enrollment: Grade 9. Female. Two or More Races.
+enroll_gr10_m_ame : Enrollment: Grade 10. Male. American Native.
+enroll_gr10_f_ame : Enrollment: Grade 10. Female. American Native.
+enroll_gr10_m_asian : Enrollment: Grade 10. Male. Asian or Pacific Islander.
+enroll_gr10_f_asian : Enrollment: Grade 10. Female. Asian or Pacific Islander.
+enroll_gr10_m_hisp : Enrollment: Grade 10. Male. Hispanic.
+enroll_gr10_f_hisp : Enrollment: Grade 10. Female. Hispanic.
+enroll_gr10_m_black : Enrollment: Grade 10. Male. Black.
+enroll_gr10_f_black : Enrollment: Grade 10. Female. Black.
+enroll_gr10_m_white : Enrollment: Grade 10. Male. White.
+enroll_gr10_f_white : Enrollment: Grade 10. Female. White.
+enroll_gr10_m_tr : Enrollment: Grade 10. Male. Two or More Races.
+enroll_gr10_f_tr : Enrollment: Grade 10. Female. Two or More Races.
+enroll_gr11_m_ame : Enrollment: Grade 11. Male. American Native.
+enroll_gr11_f_ame : Enrollment: Grade 11. Female. American Native.
+enroll_gr11_m_asian : Enrollment: Grade 11. Male. Asian or Pacific Islander.
+enroll_gr11_f_asian : Enrollment: Grade 11. Female. Asian or Pacific Islander.
+enroll_gr11_m_hisp : Enrollment: Grade 11. Male. Hispanic.
+enroll_gr11_f_hisp : Enrollment: Grade 11. Female. Hispanic.
+enroll_gr11_m_black : Enrollment: Grade 11. Male. Black.
+enroll_gr11_f_black : Enrollment: Grade 11. Female. Black.
+enroll_gr11_m_white : Enrollment: Grade 11. Male. White.
+enroll_gr11_f_white : Enrollment: Grade 11. Female. White.
+enroll_gr11_m_tr : Enrollment: Grade 11. Male. Two or More Races.
+enroll_gr11_f_tr : Enrollment: Grade 11. Female. Two or More Races.
+enroll_gr12_m_ame : Enrollment: Grade 12. Male. American Native.
+enroll_gr12_f_ame : Enrollment: Grade 12. Female. American Native.
+enroll_gr12_m_asian : Enrollment: Grade 12. Male. Asian or Pacific Islander.
+enroll_gr12_f_asian : Enrollment: Grade 12. Female. Asian or Pacific Islander.
+enroll_gr12_m_hisp : Enrollment: Grade 12. Male. Hispanic.
+enroll_gr12_f_hisp : Enrollment: Grade 12. Female. Hispanic.
+enroll_gr12_m_black : Enrollment: Grade 12. Male. Black.
+enroll_gr12_f_black : Enrollment: Grade 12. Female. Black.
+enroll_gr12_m_white : Enrollment: Grade 12. Male. White.
+enroll_gr12_f_white : Enrollment: Grade 12. Female. White.
+enroll_gr12_m_tr : Enrollment: Grade 12. Male. Two or More Races.
+enroll_gr12_f_tr : Enrollment: Grade 12. Female. Two or More Races.
+enroll_ungr_m_ame : Enrollment: Ungraded. Male. American Native.
+enroll_ungr_f_ame : Enrollment: Ungraded. Female. American Native.
+enroll_ungr_m_asian : Enrollment: Ungraded. Male. Asian or Pacific Islander.
+enroll_ungr_f_asian : Enrollment: Ungraded. Female. Asian or Pacific Islander.
+enroll_ungr_m_hisp : Enrollment: Ungraded. Male. Hispanic.
+enroll_ungr_f_hisp : Enrollment: Ungraded. Female. Hispanic.
+enroll_ungr_m_black : Enrollment: Ungraded. Male. Black.
+enroll_ungr_f_black : Enrollment: Ungraded. Female. Black.
+enroll_ungr_m_white : Enrollment: Ungraded. Male. White.
+enroll_ungr_f_white : Enrollment: Ungraded. Female. White.
+enroll_ungr_m_tr : Enrollment: Ungraded. Male. Two or More Races.
+enroll_ungr_f_tr : Enrollment: Ungraded. Female. Two or More Races.
+enrollment_lowinc_pct : Enrollment: Percent From Low Income Families
+ccd_free_reduced_lunch_eligible : Free and Reduced Lunch Eligible Students
+ccd_reduced_lunch_eligible : Reduced-price Lunch Eligible Students
+ccd_free_lunch_eligible : Free Lunch Eligible Students
+enrollment_lep : Number of Limited English Proficiency Students Enrolled
+ccd_iep_students : Number of students with Individualized Education Plans
+staff_aides_ft : Support Staff: Instructional Aides. Full Time.
+staff_aides_pt : Support Staff: Instructional Aides. Part Time.
+staff_admin_sch_ft : Support Staff: School Administration. Full Time.
+staff_admin_sch_pt : Support Staff: School Administration. Part Time.
+staff_library_ft : Support Staff: Library and Media. Full Time.
+staff_library_pt : Support Staff: Library and Media. Part Time.
+staff_admin_lea_ft : Support Staff: District Administration. Full Time.
+staff_admin_lea_pt : Support Staff: District Administration. Part Time.
+staff_other_all_ft : Support Staff: Other. Full Time.
+staff_other_all_pt : Support Staff: Other. Part Time.
+staff_total_ft : Support Staff: Total. Full Time.
+staff_total_pt : Support Staff: Total. Part Time.
+ccd_elem_guid_couns : Number of guidance counselors at the Elementary level
+ccd_second_guid_couns : Number of guidance counselors at the Secondary level
+ccd_total_guid_couns : Number of guidance counselors across all levels
+prof_total : Professional Staff: Total.
+prof_total_female : Professional Staff: Total. Female.
+prof_total_male : Professional Staff: Total. Male.
+prof_admin : Professional Staff: Administrative. Total.
+prof_admin_female : Professional Staff: Administrative. Female.
+prof_admin_male : Professional Staff: Administrative. Male.
+prof_teach : Professional Staff: Classroom Teacher. Total.
+prof_teach_female : Professional Staff: Classroom Teacher. Female.
+prof_teach_male : Professional Staff: Classroom Teacher. Male.
+prof_coord : Professional Staff: Coordinate Services. Total.
+prof_coord_female : Professional Staff: Coordinate Services. Female.
+prof_coord_male : Professional Staff: Coordinate Services. Male.
+prof_other : Professional Staff: Other. Total.
+prof_other_female : Professional Staff: Other. Female.
+prof_other_male : Professional Staff: Other. Male.
+prof_total_salary : Professional Staff: Total. Average Salary.
+prof_admin_salary : Professional Staff: Administrative. Average Salary.
+prof_teach_salary : Professional Staff: Classroom Teacher. Average Salary.
+prof_coord_salary : Professional Staff: Coordinate Services. Average Salary.
+prof_other_salary : Progfessional Staff: Other. Average Salary.
+prof_total_ined : Professional Staff: Total. Average Years in Education.
+prof_admin_ined : Professional Staff: Administrative. Average Years in Education.
+prof_teach_ined : Professional Staff: Classroom Teacher. Average Years in Education.
+prof_coord_ined : Professional Staff: Coordinate Services. Average Years in Education.
+prof_other_ined : Professional Staff: Other. Average Years in Education.
+prof_total_inlea : Professional Staff: Total. Average Consecutive Years in LEA.
+prof_admin_inlea : Professional Staff: Administrative. Average Consecutive Years in LEA.
+prof_teach_inlea : Professional Staff: Classroom Teacher. Average Consecutive Years in LEA.
+prof_coord_inlea : Professional Staff: Coordinate Services. Average Consecutive Years in LEA.
+prof_other_inlea : Professional Staff: Other. Average Consecutive Years in LEA.
+prof_total_educ : Professional Staff: Total. Average Level of Education.
+prof_admin_educ : Professional Staff: Administrative. Average Level of Education.
+prof_teach_educ : Professional Staff: Classroom Teacher. Average Level of Education.
+prof_coord_educ : Professional Staff: Coordinate Services. Average Level of Education.
+prof_other_educ : Professional Staff: Other. Average Level of Education.
+ccd_pupil_teacher_ratio : Pupil/Teacher Ratio
+ccd_fte_teachers : Number of Full-Time Equivalent (FTE) Teachers
+ccd_prek_teachers : Number of Prekindergarten Teachers
+ccd_elementary_teachers : Number of Elementary Teachers
+ccd_secondary_teachers : Number of Secondary Teachers
+ccd_ungraded_teachers : Number of Ungraded Teachers
+ccd_kinder_teachers : Number of Kindergarten Teachers

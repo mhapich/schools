@@ -1,0 +1,818 @@
+year : Academic Year
+aun : Administrative Unit Number
+nces_leaid : Agency ID - NCES Assigned [District] Latest available year
+leaname : Local Education Agency (LEA) Name
+leatype : Local Education Agency (LEA) Type
+schoolnumber : PA School Code
+nces_schid : nces_schid
+schoolname : School Name
+opendate : Open Date
+closedate : Closed Date
+schooltype : School Type
+county : County
+gradeserved_pk : Grade Served: All Pre-K
+gradeserved_pka : Grade Served: AM Pre-K
+gradeserved_pkp : Grade Served: PM Pre-K
+gradeserved_pkf : Grade Served: Full Day Pre-K
+gradeserved_k : Grade Served: All Kindergarten
+gradeserved_k4a : Grade Served: Age 4 AM Kindergarten
+gradeserved_k4p : Grade Served: Age 4 PM Kindergarten
+gradeserved_k4f : Grade Served: Age 4 Full Day Kindergarten
+gradeserved_k5a : Grade Served: Age 5 AM Kindergarten
+gradeserved_k5p : Grade Served: Age 5 PM Kindergarten
+gradeserved_k5f : Grade Served: Age 5 Full Day Kindergarten
+gradeserved_1st : Grade Served: 1st Grade
+gradeserved_2nd : Grade Served: 2nd Grade
+gradeserved_3rd : Grade Served: 3rd Grade
+gradeserved_4th : Grade Served: 4th Grade
+gradeserved_5th : Grade Served: 5th Grade
+gradeserved_6th : Grade Served: 6th Grade
+gradeserved_7th : Grade Served: 7th Grade
+gradeserved_8th : Grade Served: 8th Grade
+gradeserved_9th : Grade Served: 9th Grade
+gradeserved_10th : Grade Served: 10th Grade
+gradeserved_11th : Grade Served: 11th Grade
+gradeserved_12th : Grade Served: 12th Grade
+gradeserved_ug : Grade Served: ug Grade
+spp_attendance_rate : Attendance Rate
+spp_academic_score : Final Academic Score
+spp_industry_competency : Industry Standards-Based Competency Assessments - Percent Competent or Advanced
+spp_sat_1550plus : Number of Grade 12 Students Scoring 1550 or Higher on the SAT
+spp_act_22plus : Number of Grade 12 Students Scoring 22 or Higher on the ACT
+spp_psat_participation : Number of Grade 12 students who took the PSAT
+spp_plan_participation : Number of Grade 12 students who took the Plan
+spp_collegeready : Percent of Students who met the SAT/ACT College Ready Benchmark
+pssa_num_math_total_all : Number Scored: total math students
+pssa_adv_math_total_all : Percent Advanced: total math students
+pssa_prof_math_total_all : Percent Proficient: total math students
+pssa_basic_math_total_all : Percent Basic: total math students
+pssa_below_math_total_all : Percent Below Basic: total math students
+pssa_num_ela_total_all : Number Scored: total ela all students
+pssa_adv_ela_total_all : Percent Advanced: total ela all students
+pssa_prof_ela_total_all : Percent Proficient: total ela all students
+pssa_basic_ela_total_all : Percent Basic: total ela all students
+pssa_below_ela_total_all : Percent Below Basic: total ela all students
+pssa_num_reading_total_all : Number Scored: total reading students
+pssa_adv_reading_total_all : Percent Advanced: total reading students
+pssa_prof_reading_total_all : Percent Proficient: total reading students
+pssa_basic_reading_total_all : Percent Basic: total reading students
+pssa_below_reading_total_all : Percent Below Basic: total reading students
+pssa_num_writing_total_all : Number Scored: total writing students
+pssa_adv_writing_total_all : Percent Advanced: total writing students
+pssa_prof_writing_total_all : Percent Proficient: total writing students
+pssa_basic_writing_total_all : Percent Basic: total writing students
+pssa_below_writing_total_all : Percent Below Basic: total writing students
+pssa_num_science_total_all : Number Scored: total science students
+pssa_adv_science_total_all : Percent Advanced: total science students
+pssa_prof_science_total_all : Percent Proficient: total science students
+pssa_basic_science_total_all : Percent Basic: total science students
+pssa_below_science_total_all : Percent Below Basic: total science students
+pssa_num_math_3rd_all : Number Scored: 3rd grade math students
+pssa_adv_math_3rd_all : Percent Advanced: 3rd grade math students
+pssa_prof_math_3rd_all : Percent Proficient: 3rd grade math students
+pssa_basic_math_3rd_all : Percent Basic: 3rd grade math students
+pssa_below_math_3rd_all : Percent Below Basic: 3rd grade math students
+pssa_num_math_4th_all : Number Scored: 4th grade math students
+pssa_adv_math_4th_all : Percent Advanced: 4th grade math students
+pssa_prof_math_4th_all : Percent Proficient: 4th grade math students
+pssa_basic_math_4th_all : Percent Basic: 4th grade math students
+pssa_below_math_4th_all : Percent Below Basic: 4th grade math students
+pssa_num_math_5th_all : Number Scored: 5th grade math students
+pssa_adv_math_5th_all : Percent Advanced: 5th grade math students
+pssa_prof_math_5th_all : Percent Proficient: 5th grade math students
+pssa_basic_math_5th_all : Percent Basic: 5th grade math students
+pssa_below_math_5th_all : Percent Below Basic: 5th grade math students
+pssa_num_math_6th_all : Number Scored: 6th grade math students
+pssa_adv_math_6th_all : Percent Advanced: 6th grade math students
+pssa_prof_math_6th_all : Percent Proficient: 6th grade math students
+pssa_basic_math_6th_all : Percent Basic: 6th grade math students
+pssa_below_math_6th_all : Percent Below Basic: 6th grade math students
+pssa_num_math_7th_all : Number Scored: 7th grade math students
+pssa_adv_math_7th_all : Percent Advanced: 7th grade math students
+pssa_prof_math_7th_all : Percent Proficient: 7th grade math students
+pssa_basic_math_7th_all : Percent Basic: 7th grade math students
+pssa_below_math_7th_all : Percent Below Basic: 7th grade math students
+pssa_num_math_8th_all : Number Scored: 8th grade math students
+pssa_adv_math_8th_all : Percent Advanced: 8th grade math students
+pssa_prof_math_8th_all : Percent Proficient: 8th grade math students
+pssa_basic_math_8th_all : Percent Basic: 8th grade math students
+pssa_below_math_8th_all : Percent Below Basic: 8th grade math students
+pssa_num_math_11th_all : Number Scored: 11th grade math students
+pssa_adv_math_11th_all : Percent Advanced: 11th grade math students
+pssa_prof_math_11th_all : Percent Proficient: 11th grade math students
+pssa_basic_math_11th_all : Percent Basic: 11th grade math students
+pssa_below_math_11th_all : Percent Below Basic: 11th grade math students
+pssa_num_math_total_hus : Number Scored: total math historically underperforming students
+pssa_adv_math_total_hus : Percent Advanced: total math historically underperforming students
+pssa_prof_math_total_hus : Percent Proficient: total math historically underperforming students
+pssa_basic_math_total_hus : Percent Basic: total math historically underperforming students
+pssa_below_math_total_hus : Percent Below Basic: total math historically underperforming students
+pssa_num_math_total_econdis : Number Scored: total Economically disadvantaged math students
+pssa_adv_math_total_econdis : Percent Advanced: total Economically disadvantaged math students
+pssa_prof_math_total_econdis : Percent Proficient: total Economically disadvantaged math students
+pssa_basic_math_total_econdis : Percent Basic: total Economically disadvantaged math students
+pssa_below_math_total_econdis : Percent Below Basic: total Economically disadvantaged math students
+pssa_num_math_total_male : Number Scored: total Male math students
+pssa_adv_math_total_male : Percent Advanced: total Male math students
+pssa_prof_math_total_male : Percent Proficient: total Male math students
+pssa_basic_math_total_male : Percent Basic: total Male math students
+pssa_below_math_total_male : Percent Below Basic: total Male math students
+pssa_num_math_total_female : Number Scored: total Female math students
+pssa_adv_math_total_female : Percent Advanced: total Female math students
+pssa_prof_math_total_female : Percent Proficient: total Female math students
+pssa_basic_math_total_female : Percent Basic: total Female math students
+pssa_below_math_total_female : Percent Below Basic: total Female math students
+pssa_num_math_total_ell : Number Scored: total ELL math students
+pssa_adv_math_total_ell : Percent Advanced: total ELL math students
+pssa_prof_math_total_ell : Percent Proficient: total ELL math students
+pssa_basic_math_total_ell : Percent Basic: total ELL math students
+pssa_below_math_total_ell : Percent Below Basic: total ELL math students
+pssa_num_math_total_iep : Number Scored: total math students with an IEP
+pssa_adv_math_total_iep : Percent Advanced: total math students with an IEP
+pssa_prof_math_total_iep : Percent Proficient: total math students with an IEP
+pssa_basic_math_total_iep : Percent Basic: total math students with an IEP
+pssa_below_math_total_iep : Percent Below Basic: total math students with an IEP
+pssa_num_math_total_asian : Number Scored: total Asian math students
+pssa_adv_math_total_asian : Percent Advanced: total Asian math students
+pssa_prof_math_total_asian : Percent Proficient: total Asian math students
+pssa_basic_math_total_asian : Percent Basic: total Asian math students
+pssa_below_math_total_asian : Percent Below Basic: total Asian math students
+pssa_num_math_total_black : Number Scored: total Black math students
+pssa_adv_math_total_black : Percent Advanced: total Black math students
+pssa_prof_math_total_black : Percent Proficient: total Black math students
+pssa_basic_math_total_black : Percent Basic: total Black math students
+pssa_below_math_total_black : Percent Below Basic: total Black math students
+pssa_num_math_total_hisp : Number Scored: total Hispanic math students
+pssa_adv_math_total_hisp : Percent Advanced: total Hispanic math students
+pssa_prof_math_total_hisp : Percent Proficient: total Hispanic math students
+pssa_basic_math_total_hisp : Percent Basic: total Hispanic math students
+pssa_below_math_total_hisp : Percent Below Basic: total Hispanic math students
+pssa_num_math_total_multi : Number Scored: total Multi-ethnic math students
+pssa_adv_math_total_multi : Percent Advanced: total Multi-ethnic math students
+pssa_prof_math_total_multi : Percent Proficient: total Multi-ethnic math students
+pssa_basic_math_total_multi : Percent Basic: total Multi-ethnic math students
+pssa_below_math_total_multi : Percent Below Basic: total Multi-ethnic math students
+pssa_num_math_total_namer : Number Scored: total Native American math students
+pssa_adv_math_total_namer : Percent Advanced: total Native American math students
+pssa_prof_math_total_namer : Percent Proficient: total Native American math students
+pssa_basic_math_total_namer : Percent Basic: total Native American math students
+pssa_below_math_total_namer : Percent Below Basic: total Native American math students
+pssa_num_math_total_white : Number Scored: total White math students
+pssa_adv_math_total_white : Percent Advanced: total White math students
+pssa_prof_math_total_white : Percent Proficient: total White math students
+pssa_basic_math_total_white : Percent Basic: total White math students
+pssa_below_math_total_white : Percent Below Basic: total White math students
+pssa_num_ela_3rd_all : Number Scored: 3rd grade ela all students
+pssa_adv_ela_3rd_all : Percent Advanced: 3rd grade ela all students
+pssa_prof_ela_3rd_all : Percent Proficient: 3rd grade ela all students
+pssa_basic_ela_3rd_all : Percent Basic: 3rd grade ela all students
+pssa_below_ela_3rd_all : Percent Below Basic: 3rd grade ela all students
+pssa_num_ela_4th_all : Number Scored: 4th grade ela all students
+pssa_adv_ela_4th_all : Percent Advanced: 4th grade ela all students
+pssa_prof_ela_4th_all : Percent Proficient: 4th grade ela all students
+pssa_basic_ela_4th_all : Percent Basic: 4th grade ela all students
+pssa_below_ela_4th_all : Percent Below Basic: 4th grade ela all students
+pssa_num_ela_5th_all : Number Scored: 5th grade ela all students
+pssa_adv_ela_5th_all : Percent Advanced: 5th grade ela all students
+pssa_prof_ela_5th_all : Percent Proficient: 5th grade ela all students
+pssa_basic_ela_5th_all : Percent Basic: 5th grade ela all students
+pssa_below_ela_5th_all : Percent Below Basic: 5th grade ela all students
+pssa_num_ela_6th_all : Number Scored: 6th grade ela all students
+pssa_adv_ela_6th_all : Percent Advanced: 6th grade ela all students
+pssa_prof_ela_6th_all : Percent Proficient: 6th grade ela all students
+pssa_basic_ela_6th_all : Percent Basic: 6th grade ela all students
+pssa_below_ela_6th_all : Percent Below Basic: 6th grade ela all students
+pssa_num_ela_7th_all : Number Scored: 7th grade ela all students
+pssa_adv_ela_7th_all : Percent Advanced: 7th grade ela all students
+pssa_prof_ela_7th_all : Percent Proficient: 7th grade ela all students
+pssa_basic_ela_7th_all : Percent Basic: 7th grade ela all students
+pssa_below_ela_7th_all : Percent Below Basic: 7th grade ela all students
+pssa_num_ela_8th_all : Number Scored: 8th grade ela all students
+pssa_adv_ela_8th_all : Percent Advanced: 8th grade ela all students
+pssa_prof_ela_8th_all : Percent Proficient: 8th grade ela all students
+pssa_basic_ela_8th_all : Percent Basic: 8th grade ela all students
+pssa_below_ela_8th_all : Percent Below Basic: 8th grade ela all students
+pssa_num_ela_total_hus : Number Scored: total ela historically underperforming students
+pssa_adv_ela_total_hus : Percent Advanced: total ela historically underperforming students
+pssa_prof_ela_total_hus : Percent Proficient: total ela historically underperforming students
+pssa_basic_ela_total_hus : Percent Basic: total ela historically underperforming students
+pssa_below_ela_total_hus : Percent Below Basic: total ela historically underperforming students
+pssa_num_reading_3rd_all : Number Scored: 3rd grade reading students
+pssa_adv_reading_3rd_all : Percent Advanced: 3rd grade reading students
+pssa_prof_reading_3rd_all : Percent Proficient: 3rd grade reading students
+pssa_basic_reading_3rd_all : Percent Basic: 3rd grade reading students
+pssa_below_reading_3rd_all : Percent Below Basic: 3rd grade reading students
+pssa_num_reading_4th_all : Number Scored: 4th grade reading students
+pssa_adv_reading_4th_all : Percent Advanced: 4th grade reading students
+pssa_prof_reading_4th_all : Percent Proficient: 4th grade reading students
+pssa_basic_reading_4th_all : Percent Basic: 4th grade reading students
+pssa_below_reading_4th_all : Percent Below Basic: 4th grade reading students
+pssa_num_reading_5th_all : Number Scored: 5th grade reading students
+pssa_adv_reading_5th_all : Percent Advanced: 5th grade reading students
+pssa_prof_reading_5th_all : Percent Proficient: 5th grade reading students
+pssa_basic_reading_5th_all : Percent Basic: 5th grade reading students
+pssa_below_reading_5th_all : Percent Below Basic: 5th grade reading students
+pssa_num_reading_6th_all : Number Scored: 6th grade reading students
+pssa_adv_reading_6th_all : Percent Advanced: 6th grade reading students
+pssa_prof_reading_6th_all : Percent Proficient: 6th grade reading students
+pssa_basic_reading_6th_all : Percent Basic: 6th grade reading students
+pssa_below_reading_6th_all : Percent Below Basic: 6th grade reading students
+pssa_num_reading_7th_all : Number Scored: 7th grade reading students
+pssa_adv_reading_7th_all : Percent Advanced: 7th grade reading students
+pssa_prof_reading_7th_all : Percent Proficient: 7th grade reading students
+pssa_basic_reading_7th_all : Percent Basic: 7th grade reading students
+pssa_below_reading_7th_all : Percent Below Basic: 7th grade reading students
+pssa_num_reading_8th_all : Number Scored: 8th grade reading students
+pssa_adv_reading_8th_all : Percent Advanced: 8th grade reading students
+pssa_prof_reading_8th_all : Percent Proficient: 8th grade reading students
+pssa_basic_reading_8th_all : Percent Basic: 8th grade reading students
+pssa_below_reading_8th_all : Percent Below Basic: 8th grade reading students
+pssa_num_reading_11th_all : Number Scored: 11th grade reading students
+pssa_adv_reading_11th_all : Percent Advanced: 11th grade reading students
+pssa_prof_reading_11th_all : Percent Proficient: 11th grade reading students
+pssa_basic_reading_11th_all : Percent Basic: 11th grade reading students
+pssa_below_reading_11th_all : Percent Below Basic: 11th grade reading students
+pssa_num_reading_total_hus : Number Scored: total reading historically underperforming students
+pssa_adv_reading_total_hus : Percent Advanced: total reading historically underperforming students
+pssa_prof_reading_total_hus : Percent Proficient: total reading historically underperforming students
+pssa_basic_reading_total_hus : Percent Basic: total reading historically underperforming students
+pssa_below_reading_total_hus : Percent Below Basic: total reading historically underperforming students
+pssa_num_reading_total_econdis : Number Scored: total Economically disadvantaged reading students
+pssa_adv_reading_total_econdis : Percent Advanced: total Economically disadvantaged reading students
+pssa_prof_reading_total_econdis : Percent Proficient: total Economically disadvantaged reading students
+pssa_basic_reading_total_econdis : Percent Basic: total Economically disadvantaged reading students
+pssa_below_reading_total_econdis : Percent Below Basic: total Economically disadvantaged reading students
+pssa_num_reading_total_male : Number Scored: total Male reading students
+pssa_adv_reading_total_male : Percent Advanced: total Male reading students
+pssa_prof_reading_total_male : Percent Proficient: total Male reading students
+pssa_basic_reading_total_male : Percent Basic: total Male reading students
+pssa_below_reading_total_male : Percent Below Basic: total Male reading students
+pssa_num_reading_total_female : Number Scored: total Female reading students
+pssa_adv_reading_total_female : Percent Advanced: total Female reading students
+pssa_prof_reading_total_female : Percent Proficient: total Female reading students
+pssa_basic_reading_total_female : Percent Basic: total Female reading students
+pssa_below_reading_total_female : Percent Below Basic: total Female reading students
+pssa_num_reading_total_ell : Number Scored: total ELL reading students
+pssa_adv_reading_total_ell : Percent Advanced: total ELL reading students
+pssa_prof_reading_total_ell : Percent Proficient: total ELL reading students
+pssa_basic_reading_total_ell : Percent Basic: total ELL reading students
+pssa_below_reading_total_ell : Percent Below Basic: total ELL reading students
+pssa_num_reading_total_iep : Number Scored: total reading students with an IEP
+pssa_adv_reading_total_iep : Percent Advanced: total reading students with an IEP
+pssa_prof_reading_total_iep : Percent Proficient: total reading students with an IEP
+pssa_basic_reading_total_iep : Percent Basic: total reading students with an IEP
+pssa_below_reading_total_iep : Percent Below Basic: total reading students with an IEP
+pssa_num_reading_total_asian : Number Scored: total Asian reading students
+pssa_adv_reading_total_asian : Percent Advanced: total Asian reading students
+pssa_prof_reading_total_asian : Percent Proficient: total Asian reading students
+pssa_basic_reading_total_asian : Percent Basic: total Asian reading students
+pssa_below_reading_total_asian : Percent Below Basic: total Asian reading students
+pssa_num_reading_total_black : Number Scored: total Black reading students
+pssa_adv_reading_total_black : Percent Advanced: total Black reading students
+pssa_prof_reading_total_black : Percent Proficient: total Black reading students
+pssa_basic_reading_total_black : Percent Basic: total Black reading students
+pssa_below_reading_total_black : Percent Below Basic: total Black reading students
+pssa_num_reading_total_hisp : Number Scored: total Hispanic reading students
+pssa_adv_reading_total_hisp : Percent Advanced: total Hispanic reading students
+pssa_prof_reading_total_hisp : Percent Proficient: total Hispanic reading students
+pssa_basic_reading_total_hisp : Percent Basic: total Hispanic reading students
+pssa_below_reading_total_hisp : Percent Below Basic: total Hispanic reading students
+pssa_num_reading_total_multi : Number Scored: total Multi-ethnic reading students
+pssa_adv_reading_total_multi : Percent Advanced: total Multi-ethnic reading students
+pssa_prof_reading_total_multi : Percent Proficient: total Multi-ethnic reading students
+pssa_basic_reading_total_multi : Percent Basic: total Multi-ethnic reading students
+pssa_below_reading_total_multi : Percent Below Basic: total Multi-ethnic reading students
+pssa_num_reading_total_namer : Number Scored: total Native American reading students
+pssa_adv_reading_total_namer : Percent Advanced: total Native American reading students
+pssa_prof_reading_total_namer : Percent Proficient: total Native American reading students
+pssa_basic_reading_total_namer : Percent Basic: total Native American reading students
+pssa_below_reading_total_namer : Percent Below Basic: total Native American reading students
+pssa_num_reading_total_white : Number Scored: total White reading students
+pssa_adv_reading_total_white : Percent Advanced: total White reading students
+pssa_prof_reading_total_white : Percent Proficient: total White reading students
+pssa_basic_reading_total_white : Percent Basic: total White reading students
+pssa_below_reading_total_white : Percent Below Basic: total White reading students
+pssa_num_writing_5th_all : Number Scored: 5th grade writing students
+pssa_adv_writing_5th_all : Percent Advanced: 5th grade writing students
+pssa_prof_writing_5th_all : Percent Proficient: 5th grade writing students
+pssa_basic_writing_5th_all : Percent Basic: 5th grade writing students
+pssa_below_writing_5th_all : Percent Below Basic: 5th grade writing students
+pssa_num_writing_8th_all : Number Scored: 8th grade writing students
+pssa_adv_writing_8th_all : Percent Advanced: 8th grade writing students
+pssa_prof_writing_8th_all : Percent Proficient: 8th grade writing students
+pssa_basic_writing_8th_all : Percent Basic: 8th grade writing students
+pssa_below_writing_8th_all : Percent Below Basic: 8th grade writing students
+pssa_num_writing_11th_all : Number Scored: 11th grade writing students
+pssa_adv_writing_11th_all : Percent Advanced: 11th grade writing students
+pssa_prof_writing_11th_all : Percent Proficient: 11th grade writing students
+pssa_basic_writing_11th_all : Percent Basic: 11th grade writing students
+pssa_below_writing_11th_all : Percent Below Basic: 11th grade writing students
+pssa_num_writing_total_hus : Number Scored: total writing historically underperforming students
+pssa_adv_writing_total_hus : Percent Advanced: total writing historically underperforming students
+pssa_prof_writing_total_hus : Percent Proficient: total writing historically underperforming students
+pssa_basic_writing_total_hus : Percent Basic: total writing historically underperforming students
+pssa_below_writing_total_hus : Percent Below Basic: total writing historically underperforming students
+pssa_num_writing_total_econdis : Number Scored: total Economically disadvantaged writing students
+pssa_adv_writing_total_econdis : Percent Advanced: total Economically disadvantaged writing students
+pssa_prof_writing_total_econdis : Percent Proficient: total Economically disadvantaged writing students
+pssa_basic_writing_total_econdis : Percent Basic: total Economically disadvantaged writing students
+pssa_below_writing_total_econdis : Percent Below Basic: total Economically disadvantaged writing students
+pssa_num_writing_total_male : Number Scored: total Male writing students
+pssa_adv_writing_total_male : Percent Advanced: total Male writing students
+pssa_prof_writing_total_male : Percent Proficient: total Male writing students
+pssa_basic_writing_total_male : Percent Basic: total Male writing students
+pssa_below_writing_total_male : Percent Below Basic: total Male writing students
+pssa_num_writing_total_female : Number Scored: total Female writing students
+pssa_adv_writing_total_female : Percent Advanced: total Female writing students
+pssa_prof_writing_total_female : Percent Proficient: total Female writing students
+pssa_basic_writing_total_female : Percent Basic: total Female writing students
+pssa_below_writing_total_female : Percent Below Basic: total Female writing students
+pssa_num_writing_total_ell : Number Scored: total ELL writing students
+pssa_adv_writing_total_ell : Percent Advanced: total ELL writing students
+pssa_prof_writing_total_ell : Percent Proficient: total ELL writing students
+pssa_basic_writing_total_ell : Percent Basic: total ELL writing students
+pssa_below_writing_total_ell : Percent Below Basic: total ELL writing students
+pssa_num_writing_total_iep : Number Scored: total writing students with an IEP
+pssa_adv_writing_total_iep : Percent Advanced: total writing students with an IEP
+pssa_prof_writing_total_iep : Percent Proficient: total writing students with an IEP
+pssa_basic_writing_total_iep : Percent Basic: total writing students with an IEP
+pssa_below_writing_total_iep : Percent Below Basic: total writing students with an IEP
+pssa_num_writing_total_asian : Number Scored: total Asian writing students
+pssa_adv_writing_total_asian : Percent Advanced: total Asian writing students
+pssa_prof_writing_total_asian : Percent Proficient: total Asian writing students
+pssa_basic_writing_total_asian : Percent Basic: total Asian writing students
+pssa_below_writing_total_asian : Percent Below Basic: total Asian writing students
+pssa_num_writing_total_black : Number Scored: total Black writing students
+pssa_adv_writing_total_black : Percent Advanced: total Black writing students
+pssa_prof_writing_total_black : Percent Proficient: total Black writing students
+pssa_basic_writing_total_black : Percent Basic: total Black writing students
+pssa_below_writing_total_black : Percent Below Basic: total Black writing students
+pssa_num_writing_total_hisp : Number Scored: total Hispanic writing students
+pssa_adv_writing_total_hisp : Percent Advanced: total Hispanic writing students
+pssa_prof_writing_total_hisp : Percent Proficient: total Hispanic writing students
+pssa_basic_writing_total_hisp : Percent Basic: total Hispanic writing students
+pssa_below_writing_total_hisp : Percent Below Basic: total Hispanic writing students
+pssa_num_writing_total_multi : Number Scored: total Multi-ethnic writing students
+pssa_adv_writing_total_multi : Percent Advanced: total Multi-ethnic writing students
+pssa_prof_writing_total_multi : Percent Proficient: total Multi-ethnic writing students
+pssa_basic_writing_total_multi : Percent Basic: total Multi-ethnic writing students
+pssa_below_writing_total_multi : Percent Below Basic: total Multi-ethnic writing students
+pssa_num_writing_total_namer : Number Scored: total Native American writing students
+pssa_adv_writing_total_namer : Percent Advanced: total Native American writing students
+pssa_prof_writing_total_namer : Percent Proficient: total Native American writing students
+pssa_basic_writing_total_namer : Percent Basic: total Native American writing students
+pssa_below_writing_total_namer : Percent Below Basic: total Native American writing students
+pssa_num_writing_total_white : Number Scored: total White writing students
+pssa_adv_writing_total_white : Percent Advanced: total White writing students
+pssa_prof_writing_total_white : Percent Proficient: total White writing students
+pssa_basic_writing_total_white : Percent Basic: total White writing students
+pssa_below_writing_total_white : Percent Below Basic: total White writing students
+pssa_num_science_4th_all : Number Scored: 4th grade science students
+pssa_adv_science_4th_all : Percent Advanced: 4th grade science students
+pssa_prof_science_4th_all : Percent Proficient: 4th grade science students
+pssa_basic_science_4th_all : Percent Basic: 4th grade science students
+pssa_below_science_4th_all : Percent Below Basic: 4th grade science students
+pssa_num_science_8th_all : Number Scored: 8th grade science students
+pssa_adv_science_8th_all : Percent Advanced: 8th grade science students
+pssa_prof_science_8th_all : Percent Proficient: 8th grade science students
+pssa_basic_science_8th_all : Percent Basic: 8th grade science students
+pssa_below_science_8th_all : Percent Below Basic: 8th grade science students
+pssa_num_science_11th_all : Number Scored: 11th grade science students
+pssa_adv_science_11th_all : Percent Advanced: 11th grade science students
+pssa_prof_science_11th_all : Percent Proficient: 11th grade science students
+pssa_basic_science_11th_all : Percent Basic: 11th grade science students
+pssa_below_science_11th_all : Percent Below Basic: 11th grade science students
+pssa_num_science_total_hus : Number Scored: total science historically underperforming students
+pssa_adv_science_total_hus : Percent Advanced: total science historically underperforming students
+pssa_prof_science_total_hus : Percent Proficient: total science historically underperforming students
+pssa_basic_science_total_hus : Percent Basic: total science historically underperforming students
+pssa_below_science_total_hus : Percent Below Basic: total science historically underperforming students
+pssa_num_science_total_econdis : Number Scored: total Economically disadvantaged science students
+pssa_adv_science_total_econdis : Percent Advanced: total Economically disadvantaged science students
+pssa_prof_science_total_econdis : Percent Proficient: total Economically disadvantaged science students
+pssa_basic_science_total_econdis : Percent Basic: total Economically disadvantaged science students
+pssa_below_science_total_econdis : Percent Below Basic: total Economically disadvantaged science students
+pssa_num_science_total_male : Number Scored: total Male science students
+pssa_adv_science_total_male : Percent Advanced: total Male science students
+pssa_prof_science_total_male : Percent Proficient: total Male science students
+pssa_basic_science_total_male : Percent Basic: total Male science students
+pssa_below_science_total_male : Percent Below Basic: total Male science students
+pssa_num_science_total_female : Number Scored: total Female science students
+pssa_adv_science_total_female : Percent Advanced: total Female science students
+pssa_prof_science_total_female : Percent Proficient: total Female science students
+pssa_basic_science_total_female : Percent Basic: total Female science students
+pssa_below_science_total_female : Percent Below Basic: total Female science students
+pssa_num_science_total_ell : Number Scored: total ELL science students
+pssa_adv_science_total_ell : Percent Advanced: total ELL science students
+pssa_prof_science_total_ell : Percent Proficient: total ELL science students
+pssa_basic_science_total_ell : Percent Basic: total ELL science students
+pssa_below_science_total_ell : Percent Below Basic: total ELL science students
+pssa_num_science_total_iep : Number Scored: total science students with an IEP
+pssa_adv_science_total_iep : Percent Advanced: total science students with an IEP
+pssa_prof_science_total_iep : Percent Proficient: total science students with an IEP
+pssa_basic_science_total_iep : Percent Basic: total science students with an IEP
+pssa_below_science_total_iep : Percent Below Basic: total science students with an IEP
+pssa_num_science_total_asian : Number Scored: total Asian science students
+pssa_adv_science_total_asian : Percent Advanced: total Asian science students
+pssa_prof_science_total_asian : Percent Proficient: total Asian science students
+pssa_basic_science_total_asian : Percent Basic: total Asian science students
+pssa_below_science_total_asian : Percent Below Basic: total Asian science students
+pssa_num_science_total_black : Number Scored: total Black science students
+pssa_adv_science_total_black : Percent Advanced: total Black science students
+pssa_prof_science_total_black : Percent Proficient: total Black science students
+pssa_basic_science_total_black : Percent Basic: total Black science students
+pssa_below_science_total_black : Percent Below Basic: total Black science students
+pssa_num_science_total_hisp : Number Scored: total Hispanic science students
+pssa_adv_science_total_hisp : Percent Advanced: total Hispanic science students
+pssa_prof_science_total_hisp : Percent Proficient: total Hispanic science students
+pssa_basic_science_total_hisp : Percent Basic: total Hispanic science students
+pssa_below_science_total_hisp : Percent Below Basic: total Hispanic science students
+pssa_num_science_total_multi : Number Scored: total Multi-ethnic science students
+pssa_adv_science_total_multi : Percent Advanced: total Multi-ethnic science students
+pssa_prof_science_total_multi : Percent Proficient: total Multi-ethnic science students
+pssa_basic_science_total_multi : Percent Basic: total Multi-ethnic science students
+pssa_below_science_total_multi : Percent Below Basic: total Multi-ethnic science students
+pssa_num_science_total_namer : Number Scored: total Native American science students
+pssa_adv_science_total_namer : Percent Advanced: total Native American science students
+pssa_prof_science_total_namer : Percent Proficient: total Native American science students
+pssa_basic_science_total_namer : Percent Basic: total Native American science students
+pssa_below_science_total_namer : Percent Below Basic: total Native American science students
+pssa_num_science_total_white : Number Scored: total White science students
+pssa_adv_science_total_white : Percent Advanced: total White science students
+pssa_prof_science_total_white : Percent Proficient: total White science students
+pssa_basic_science_total_white : Percent Basic: total White science students
+pssa_below_science_total_white : Percent Below Basic: total White science students
+ks_number_alg_all : Keystone Exam: Number Tested, Algebra. All Students.
+ks_number_alg_hus : Keystone Exam: Number Tested, Algebra. HU Students.
+ks_number_bio_all : Keystone Exam: Number Tested, Biology. All Students.
+ks_number_bio_hus : Keystone Exam: Number Tested, Biology. HU Students.
+ks_number_lit_all : Keystone Exam: Number Tested, Literature . All Students.
+ks_number_lit_hus : Keystone Exam: Number Tested, Literature . HU Students.
+ks_adv_alg_all : Keystone Exam: Percent Advanced, Algebra. All Students.
+ks_prof_alg_all : Keystone Exam: Percent Proficient, Algebra. All Students.
+ks_basic_alg_all : Keystone Exam: Percent Basic, Algebra. All Students.
+ks_below_alg_all : Keystone Exam: Percent Below Basic, Algebra. All Students.
+ks_adv_alg_hus : Keystone Exam: Percent Advanced, Algebra. HU Students.
+ks_prof_alg_hus : Keystone Exam: Percent Proficient, Algebra. HU Students.
+ks_basic_alg_hus : Keystone Exam: Percent Basic, Algebra. HU Students.
+ks_below_alg_hus : Keystone Exam: Percent Below Basic, Algebra. HU Students.
+ks_adv_bio_all : Keystone Exam: Percent Advanced, Biology. All Students.
+ks_prof_bio_all : Keystone Exam: Percent Proficient, Biology. All Students.
+ks_basic_bio_all : Keystone Exam: Percent Basic, Biology. All Students.
+ks_below_bio_all : Keystone Exam: Percent Below Basic, Biology. All Students.
+ks_adv_bio_hus : Keystone Exam: Percent Advanced, Biology. HU Students.
+ks_prof_bio_hus : Keystone Exam: Percent Proficient, Biology. HU Students.
+ks_basic_bio_hus : Keystone Exam: Percent Basic, Biology. HU Students.
+ks_below_bio_hus : Keystone Exam: Percent Below Basic, Biology. HU Students.
+ks_adv_lit_all : Keystone Exam: Percent Advanced, Literature. All Students.
+ks_prof_lit_all : Keystone Exam: Percent Proficient, Literature. All Students.
+ks_basic_lit_all : Keystone Exam: Percent Basic, Literature. All Students.
+ks_below_lit_all : Keystone Exam: Percent Below Basic, Literature. All Students.
+ks_adv_lit_hus : Keystone Exam: Percent Advanced, Literature. HU Students.
+ks_prof_lit_hus : Keystone Exam: Percent Proficient, Literature. HU Students.
+ks_basic_lit_hus : Keystone Exam: Percent Basic, Literature. HU Students.
+ks_below_lit_hus : Keystone Exam: Percent Below Basic, Literature. HU Students.
+crdc_ap_exam_took_some_m_hisp : CRDC: Took One or More AP Exams. Male. Hispanic.
+crdc_ap_exam_took_some_f_hisp : CRDC: Took One or More AP Exams. Female. Hispanic.
+crdc_ap_exam_took_some_m_ame : CRDC: Took One or More AP Exams. Male. American Native.
+crdc_ap_exam_took_some_f_ame : CRDC: Took One or More AP Exams. Female. American Native.
+crdc_ap_exam_took_some_m_asian : CRDC: Took One or More AP Exams. Male. Asian.
+crdc_ap_exam_took_some_f_asian : CRDC: Took One or More AP Exams. Female. Asian.
+crdc_ap_exam_took_some_m_nhpi : CRDC: Took One or More AP Exams. Male. Pacific Islander.
+crdc_ap_exam_took_some_f_nhpi : CRDC: Took One or More AP Exams. Female. Pacific Islander.
+crdc_ap_exam_took_some_m_black : CRDC: Took One or More AP Exams. Male. Black.
+crdc_ap_exam_took_some_f_black : CRDC: Took One or More AP Exams. Female. Black.
+crdc_ap_exam_took_some_m_white : CRDC: Took One or More AP Exams. Male. White.
+crdc_ap_exam_took_some_f_white : CRDC: Took One or More AP Exams. Female. White.
+crdc_ap_exam_took_some_m_tr : CRDC: Took One or More AP Exams. Male. Two or More Races.
+crdc_ap_exam_took_some_f_tr : CRDC: Took One or More AP Exams. Female. Two or More Races.
+crdc_ap_exam_took_some_m_total : CRDC: Took One or More AP Exams. Male. Total.
+crdc_ap_exam_took_some_f_total : CRDC: Took One or More AP Exams. Female. Total.
+crdc_ap_exam_took_some_m_lep : CRDC: Took One or More AP Exams. Male. LEP.
+crdc_ap_exam_took_some_f_lep : CRDC: Took One or More AP Exams. Female. LEP.
+crdc_ap_exam_took_some_m_idea : CRDC: Took One or More AP Exams. Male. IDEA.
+crdc_ap_exam_took_some_f_idea : CRDC: Took One or More AP Exams. Female. IDEA.
+crdc_ap_exam_took_no_m_hisp : CRDC: Took No AP Exams. Male. Hispanic.
+crdc_ap_exam_took_no_f_hisp : CRDC: Took No AP Exams. Female. Hispanic.
+crdc_ap_exam_took_no_m_ame : CRDC: Took No AP Exams. Male. American Native.
+crdc_ap_exam_took_no_f_ame : CRDC: Took No AP Exams. Female. American Native.
+crdc_ap_exam_took_no_m_asian : CRDC: Took No AP Exams. Male. Asian.
+crdc_ap_exam_took_no_f_asian : CRDC: Took No AP Exams. Female. Asian.
+crdc_ap_exam_took_no_m_nhpi : CRDC: Took No AP Exams. Male. Pacific Islander.
+crdc_ap_exam_took_no_f_nhpi : CRDC: Took No AP Exams. Female. Pacific Islander.
+crdc_ap_exam_took_no_m_black : CRDC: Took No AP Exams. Male. Black.
+crdc_ap_exam_took_no_f_black : CRDC: Took No AP Exams. Female. Black.
+crdc_ap_exam_took_no_m_white : CRDC: Took No AP Exams. Male. White.
+crdc_ap_exam_took_no_f_white : CRDC: Took No AP Exams. Female. White.
+crdc_ap_exam_took_no_m_tr : CRDC: Took No AP Exams. Male. Two or More Races.
+crdc_ap_exam_took_no_f_tr : CRDC: Took No AP Exams. Female. Two or More Races.
+crdc_ap_exam_took_no_m_total : CRDC: Took No AP Exams. Male. Total.
+crdc_ap_exam_took_no_f_total : CRDC: Took No AP Exams. Female. Total.
+crdc_ap_exam_took_no_m_lep : CRDC: Took No AP Exams. Male. LEP.
+crdc_ap_exam_took_no_f_lep : CRDC: Took No AP Exams. Female. LEP.
+crdc_ap_exam_took_no_m_idea : CRDC: Took No AP Exams. Male. IDEA.
+crdc_ap_exam_took_no_f_idea : CRDC: Took No AP Exams. Female. IDEA.
+crdc_ap_exam_pass_some_m_hisp : CRDC: Passed One or More AP Exams. Male. Hispanic.
+crdc_ap_exam_pass_some_f_hisp : CRDC: Passed One or More AP Exams. Female. Hispanic.
+crdc_ap_exam_pass_some_m_ame : CRDC: Passed One or More AP Exams. Male. American Native.
+crdc_ap_exam_pass_some_f_ame : CRDC: Passed One or More AP Exams. Female. American Native.
+crdc_ap_exam_pass_some_m_asian : CRDC: Passed One or More AP Exams. Male. Asian.
+crdc_ap_exam_pass_some_f_asian : CRDC: Passed One or More AP Exams. Female. Asian.
+crdc_ap_exam_pass_some_m_nhpi : CRDC: Passed One or More AP Exams. Male. Pacific Islander.
+crdc_ap_exam_pass_some_f_nhpi : CRDC: Passed One or More AP Exams. Female. Pacific Islander.
+crdc_ap_exam_pass_some_m_black : CRDC: Passed One or More AP Exams. Male. Black.
+crdc_ap_exam_pass_some_f_black : CRDC: Passed One or More AP Exams. Female. Black.
+crdc_ap_exam_pass_some_m_white : CRDC: Passed One or More AP Exams. Male. White.
+crdc_ap_exam_pass_some_f_white : CRDC: Passed One or More AP Exams. Female. White.
+crdc_ap_exam_pass_some_m_tr : CRDC: Passed One or More AP Exams. Male. Two or More Races.
+crdc_ap_exam_pass_some_f_tr : CRDC: Passed One or More AP Exams. Female. Two or More Races.
+crdc_ap_exam_pass_some_m_total : CRDC: Passed One or More AP Exams. Male. Total.
+crdc_ap_exam_pass_some_f_total : CRDC: Passed One or More AP Exams. Female. Total.
+crdc_ap_exam_pass_some_m_lep : CRDC: Passed One or More AP Exams. Male. LEP.
+crdc_ap_exam_pass_some_f_lep : CRDC: Passed One or More AP Exams. Female. LEP.
+crdc_ap_exam_pass_some_m_idea : CRDC: Passed One or More AP Exams. Male. IDEA.
+crdc_ap_exam_pass_some_f_idea : CRDC: Passed One or More AP Exams. Female. IDEA.
+crdc_ap_exam_pass_no_m_hisp : CRDC: Passed No AP Exams. Male. Hispanic.
+crdc_ap_exam_pass_no_f_hisp : CRDC: Passed No AP Exams. Female. Hispanic.
+crdc_ap_exam_pass_no_m_ame : CRDC: Passed No AP Exams. Male. American Native.
+crdc_ap_exam_pass_no_f_ame : CRDC: Passed No AP Exams. Female. American Native.
+crdc_ap_exam_pass_no_m_asian : CRDC: Passed No AP Exams. Male. Asian.
+crdc_ap_exam_pass_no_f_asian : CRDC: Passed No AP Exams. Female. Asian.
+crdc_ap_exam_pass_no_m_nhpi : CRDC: Passed No AP Exams. Male. Pacific Islander.
+crdc_ap_exam_pass_no_f_nhpi : CRDC: Passed No AP Exams. Female. Pacific Islander.
+crdc_ap_exam_pass_no_m_black : CRDC: Passed No AP Exams. Male. Black.
+crdc_ap_exam_pass_no_f_black : CRDC: Passed No AP Exams. Female. Black.
+crdc_ap_exam_pass_no_m_white : CRDC: Passed No AP Exams. Male. White.
+crdc_ap_exam_pass_no_f_white : CRDC: Passed No AP Exams. Female. White.
+crdc_ap_exam_pass_no_m_tr : CRDC: Passed No AP Exams. Male. Two or More Races.
+crdc_ap_exam_pass_no_f_tr : CRDC: Passed No AP Exams. Female. Two or More Races.
+crdc_ap_exam_pass_no_m_total : CRDC: Passed No AP Exams. Male. Total.
+crdc_ap_exam_pass_no_f_total : CRDC: Passed No AP Exams. Female. Total.
+crdc_ap_exam_pass_no_m_lep : CRDC: Passed No AP Exams. Male. LEP.
+crdc_ap_exam_pass_no_f_lep : CRDC: Passed No AP Exams. Female. LEP.
+crdc_ap_exam_pass_no_m_idea : CRDC: Passed No AP Exams. Male. IDEA.
+crdc_ap_exam_pass_no_f_idea : CRDC: Passed No AP Exams. Female. IDEA.
+crdc_satact_m_hisp : CRDC: SAT/ACT Exam Participation. Male. Hispanic
+crdc_satact_f_hisp : CRDC: SAT/ACT Exam Participation. Female. Hispanic
+crdc_satact_m_ame : CRDC: SAT/ACT Exam Participation. Male. American Native.
+crdc_satact_f_ame : CRDC: SAT/ACT Exam Participation. Female. American Native.
+crdc_satact_m_asian : CRDC: SAT/ACT Exam Participation. Male. Asian.
+crdc_satact_f_asian : CRDC: SAT/ACT Exam Participation. Female. Asian.
+crdc_satact_m_nhpi : CRDC: SAT/ACT Exam Participation. Male. Pacific Islander.
+crdc_satact_f_nhpi : CRDC: SAT/ACT Exam Participation. Female. Pacific Islander.
+crdc_satact_m_black : CRDC: SAT/ACT Exam Participation. Male. Black.
+crdc_satact_f_black : CRDC: SAT/ACT Exam Participation. Female. Black.
+crdc_satact_m_white : CRDC: SAT/ACT Exam Participation. Male. White.
+crdc_satact_f_white : CRDC: SAT/ACT Exam Participation. Female. White.
+crdc_satact_m_tr : CRDC: SAT/ACT Exam Participation. Male. Two or More Races.
+crdc_satact_f_tr : CRDC: SAT/ACT Exam Participation. Female. Two of More Races.
+crdc_satact_m_total : CRDC: SAT/ACT Exam Participation. Male. Total.
+crdc_satact_f_total : CRDC: SAT/ACT Exam Participation. Female. Total.
+crdc_satact_m_lep : CRDC: SAT/ACT Exam Participation. Male. LEP.
+crdc_satact_f_lep : CRDC: SAT/ACT Exam Participation. Female. LEP.
+crdc_satact_m_idea : CRDC: SAT/ACT Exam Participation. Male. IDEA.
+crdc_satact_f_idea : CRDC: SAT/ACT Exam Participation. Female. IDEA.
+crdc_alg_enr_m_hisp : CRDC: Enrolled in Algebra I. Male. Hispanic.
+crdc_alg_enr_m_ame : CRDC: Enrolled in Algebra I. Male. American Native.
+crdc_alg_enr_m_asian : CRDC: Enrolled in Algebra I. Male. Asian.
+crdc_alg_enr_m_nhpi : CRDC: Enrolled in Algebra I. Male. Pacific Islander.
+crdc_alg_enr_m_black : CRDC: Enrolled in Algebra I. Male. Black.
+crdc_alg_enr_m_white : CRDC: Enrolled in Algebra I. Male. White.
+crdc_alg_enr_m_tr : CRDC: Enrolled in Algebra I. Male. Two or More Races.
+crdc_alg_enr_m_total : CRDC: Enrolled in Algebra I. Male. Total.
+crdc_alg_enr_m_lep : CRDC: Enrolled in Algebra I. Male. LEP.
+crdc_alg_enr_m_idea : CRDC: Enrolled in Algebra I. Male. IDEA.
+crdc_alg_enr_f_hisp : CRDC: Enrolled in Algebra I. Female. Hispanic.
+crdc_alg_enr_f_ame : CRDC: Enrolled in Algebra I. Female. American Native.
+crdc_alg_enr_f_asian : CRDC: Enrolled in Algebra I. Female. Asian.
+crdc_alg_enr_f_nhpi : CRDC: Enrolled in Algebra I. Female. Pacific Islander.
+crdc_alg_enr_f_black : CRDC: Enrolled in Algebra I. Female. Black.
+crdc_alg_enr_f_white : CRDC: Enrolled in Algebra I. Female. White.
+crdc_alg_enr_f_tr : CRDC: Enrolled in Algebra I. Female. Two or More Races.
+crdc_alg_enr_f_total : CRDC: Enrolled in Algebra I. Female. Total.
+crdc_alg_enr_f_lep : CRDC: Enrolled in Algebra I. Female. LEP.
+crdc_alg_enr_f_idea : CRDC: Enrolled in Algebra I. Female. IDEA.
+crdc_alg_pass_m_hisp : CRDC: Passed Algebra I. Male. Hispanic.
+crdc_alg_pass_m_ame : CRDC: Passed Algebra I. Male. American Native.
+crdc_alg_pass_m_asian : CRDC: Passed Algebra I. Male. Asian.
+crdc_alg_pass_m_nhpi : CRDC: Passed Algebra I. Male. Pacific Islander.
+crdc_alg_pass_m_black : CRDC: Passed Algebra I. Male. Black.
+crdc_alg_pass_m_white : CRDC: Passed Algebra I. Male. White.
+crdc_alg_pass_m_tr : CRDC: Passed Algebra I. Male. Two or More Races.
+crdc_alg_pass_m_total : CRDC: Passed Algebra I. Male. Total.
+crdc_alg_pass_m_lep : CRDC: Passed Algebra I. Male. LEP.
+crdc_alg_pass_m_idea : CRDC: Passed Algebra I. Male. IDEA.
+crdc_alg_pass_f_hisp : CRDC: Passed Algebra I. Female. Hispanic.
+crdc_alg_pass_f_ame : CRDC: Passed Algebra I. Female. American Native.
+crdc_alg_pass_f_asian : CRDC: Passed Algebra I. Female. Asian.
+crdc_alg_pass_f_nhpi : CRDC: Passed Algebra I. Female. Pacific Islander.
+crdc_alg_pass_f_black : CRDC: Passed Algebra I. Female. Black.
+crdc_alg_pass_f_white : CRDC: Passed Algebra I. Female. White.
+crdc_alg_pass_f_tr : CRDC: Passed Algebra I. Female. Two or More Races.
+crdc_alg_pass_f_total : CRDC: Passed Algebra I. Female. Total.
+crdc_alg_pass_f_lep : CRDC: Passed Algebra I. Female. LEP.
+crdc_alg_pass_f_idea : CRDC: Passed Algebra I. Female. IDEA.
+crdc_ret_m_hisp : CRDC: Students Retained in Grade. Male. Hispanic.
+crdc_ret_m_ame : CRDC: Students Retained in Grade. Male. American Native. 
+crdc_ret_m_asian : CRDC: Students Retained in Grade. Male. Asian.
+crdc_ret_m_nhpi : CRDC: Students Retained in Grade. Male. Pacific Islander.
+crdc_ret_m_black : CRDC: Students Retained in Grade. Male. Black.
+crdc_ret_m_white : CRDC: Students Retained in Grade. Male. White.
+crdc_ret_m_tr : CRDC: Students Retained in Grade. Male. Two or More Races.
+crdc_ret_m_total : CRDC: Students Retained in Grade. Male. Total.
+crdc_ret_m_lep : CRDC: Students Retained in Grade. Male. LEP.
+crdc_ret_m_idea : CRDC: Students Retained in Grade. Male. IDEA.
+crdc_ret_f_hisp : CRDC: Students Retained in Grade. Female. Hispanic.
+crdc_ret_f_ame : CRDC: Students Retained in Grade. Female. American Native. 
+crdc_ret_f_asian : CRDC: Students Retained in Grade. Female. Asian.
+crdc_ret_f_nhpi : CRDC: Students Retained in Grade. Female. Pacific Islander.
+crdc_ret_f_black : CRDC: Students Retained in Grade. Female. Black.
+crdc_ret_f_white : CRDC: Students Retained in Grade. Female. White.
+crdc_ret_f_tr : CRDC: Students Retained in Grade. Female. Two or More Races.
+crdc_ret_f_total : CRDC: Students Retained in Grade. Female. Total.
+crdc_ret_f_lep : CRDC: Students Retained in Grade. Female. LEP.
+crdc_ret_f_idea : CRDC: Students Retained in Grade. Female. IDEA.
+crdc_stu_absent_m_hisp : CRDC: Chronically Absent Students. Male. Hispanic.
+crdc_stu_absent_f_hisp : CRDC: Chronically Absent Students. Female. Hispanic.
+crdc_stu_absent_m_ame : CRDC: Chronically Absent Students. Male. American Native.
+crdc_stu_absent_f_ame : CRDC: Chronically Absent Students. Female. American Native.
+crdc_stu_absent_m_asian : CRDC: Chronically Absent Students. Male. Asian.
+crdc_stu_absent_f_asian : CRDC: Chronically Absent Students. Female. Asian.
+crdc_stu_absent_m_nhpi : CRDC: Chronically Absent Students. Male. Pacific Islander.
+crdc_stu_absent_f_nhpi : CRDC: Chronically Absent Students. Female. Pacific Islander.
+crdc_stu_absent_m_black : CRDC: Chronically Absent Students. Male. Black.
+crdc_stu_absent_f_black : CRDC: Chronically Absent Students. Female. Black.
+crdc_stu_absent_m_white : CRDC: Chronically Absent Students. Male. White.
+crdc_stu_absent_f_white : CRDC: Chronically Absent Students. Female. White.
+crdc_stu_absent_m_tr : CRDC: Chronically Absent Students. Male. Two or More Races.
+crdc_stu_absent_f_tr : CRDC: Chronically Absent Students. Female. Two or More Races.
+crdc_stu_absent_m_total : CRDC: Chronically Absent Students. Male. Total.
+crdc_stu_absent_f_total : CRDC: Chronically Absent Students. Female. Total.
+crdc_stu_absent_m_lep : CRDC: Chronically Absent Students. Male. LEP.
+crdc_stu_absent_f_lep : CRDC: Chronically Absent Students. Female. LEP.
+crdc_stu_absent_m_idea : CRDC: Chronically Absent Students. Male. IDEA.
+crdc_stu_absent_f_idea : CRDC: Chronically Absent Students. Female. IDEA.
+dropout_enrollment : Dropout Eligible Enrollment
+dropout_male : Number of Male Dropouts
+dropout_female : Number of Female Dropouts
+dropout_total : Number of Total Dropouts
+dropout_rate : Dropout Rate (Total Dropouts/Dropout Eligible Enrollment)
+grads_4year_total : 4 Year Cohort Graduation Rate: Number of Graduates
+cohort_4year_total : 4 Year Cohort Graduation Rate: Number of Students in Cohort
+gradrate_4year_total : 4 Year Cohort Graduation Rate: Total
+gradrate_4year_male : 4 Year Cohort Graduation Rate: Male
+gradrate_4year_female : 4 Year Cohort Graduation Rate: Female
+gradrate_4year_white : 4 Year Cohort Graduation Rate: White
+gradrate_4year_black : 4 Year Cohort Graduation Rate: Black
+gradrate_4year_hisp : 4 Year Cohort Graduation Rate: Hispanic
+gradrate_4year_asian : 4 Year Cohort Graduation Rate: Asian
+gradrate_4year_multi : 4 Year Cohort Graduation Rate: Multiracial
+gradrate_4year_nhpi : 4 Year Cohort Graduation Rate: Native Hawaiian or Pacific Islander
+gradrate_4year_aian : 4 Year Cohort Graduation Rate: American Indian or Alaska Native
+gradrate_4year_lowinc : 4 Year Cohort Graduation Rate: Economically Disadvantaged
+gradrate_4year_sped : 4 Year Cohort Graduation Rate: Special Education
+gradrate_4year_lep : 4 Year Cohort Graduation Rate: English Language Learner
+gradrate_4year_migrant : 4 Year Cohort Graduation Rate: Migrant
+grads_total : Graduates: Total 
+grads_2or4year_total : Graduates: Total 2 or 4 Year College or University Bound
+grads_2or4year_pct : Graduates: Percent 2 or 4 Year College or University Bound
+grads_assoc_total : Graduates: Total Specialized Associate Degree Granting Institution Bound
+grads_assoc_pct : Graduates: Percent Specialized Associate Degree Granting Institution Bound
+grads_college_total : Graduates: Total College Bound
+grads_college_pct : Graduates: Percent College Bound
+grads_nondeg_total : Graduates: Total Non Degree Granting Postsecondary Institution Bound
+grads_nondeg_pct : Graduates: Percent Non Degree Granting Postsecondary Institution Bound
+grads_postsec_total : Graduates: Total Postsecondary Bound
+grads_postsec_pct : Graduates: Percent Postsecondary Bound
+safesch_oss_academic : Safe Schools: Academic Suspensions
+safesch_oss_conduct : Safe Schools: Conduct Suspensions
+safesch_oss_substance : Safe Schools: Drug and Alcohol Suspensions
+safesch_oss_tobacco : Safe Schools: Tobacco Suspensions
+safesch_oss_violence : Safe Schools: Violence Suspensions
+safesch_oss_weapon : Safe Schools: Weapons Suspensions
+safesch_exp_academic : Safe Schools: Academic Expulsions
+safesch_exp_conduct : Safe Schools: Conduct Expulsions
+safesch_exp_substance : Safe Schools: Drug and Alcohol Expulsions
+safesch_exp_tobacco : Safe Schools: Tobacco Expulsions
+safesch_exp_violence : Safe Schools: Violence Expulsions
+safesch_exp_weapon : Safe Schools: Weapons Expulsions
+crdc_pk_single_oss_m_hisp : CRDC: PreK Students Receiving Only One Suspension. Male. Hispanic.
+crdc_pk_single_oss_m_ame : CRDC: PreK Students Receiving Only One Suspension. Male. American Native.
+crdc_pk_single_oss_m_asian : CRDC: PreK Students Receiving Only One Suspension. Male. Asian.
+crdc_pk_single_oss_m_nhpi : CRDC: PreK Students Receiving Only One Suspension. Male. Pacific Islander.
+crdc_pk_single_oss_m_black : CRDC: PreK Students Receiving Only One Suspension. Male. Black.
+crdc_pk_single_oss_m_white : CRDC: PreK Students Receiving Only One Suspension. Male. White.
+crdc_pk_single_oss_m_tr : CRDC: PreK Students Receiving Only One Suspension. Male. Two or More Races.
+crdc_pk_single_oss_m_total : CRDC: PreK Students Receiving Only One Suspension. Male. Total.
+crdc_pk_single_oss_m_lep : CRDC: PreK Students Receiving Only One Suspension. Male. LEP.
+crdc_pk_single_oss_m_idea : CRDC: PreK Students Receiving Only One Suspension. Male. IDEA.
+crdc_pk_single_oss_f_hisp : CRDC: PreK Students Receiving Only One Suspension. Female. Hispanic.
+crdc_pk_single_oss_f_ame : CRDC: PreK Students Receiving Only One Suspension. Female. American Native.
+crdc_pk_single_oss_f_asian : CRDC: PreK Students Receiving Only One Suspension. Female. Asian.
+crdc_pk_single_oss_f_nhpi : CRDC: PreK Students Receiving Only One Suspension. Female. Pacific Islander.
+crdc_pk_single_oss_f_black : CRDC: PreK Students Receiving Only One Suspension. Female. Black.
+crdc_pk_single_oss_f_white : CRDC: PreK Students Receiving Only One Suspension. Female. White.
+crdc_pk_single_oss_f_tr : CRDC: PreK Students Receiving Only One Suspension. Female. Two or More Races.
+crdc_pk_single_oss_f_total : CRDC: PreK Students Receiving Only One Suspension. Female. Total.
+crdc_pk_single_oss_f_lep : CRDC: PreK Students Receiving Only One Suspension. Female. LEP.
+crdc_pk_single_oss_f_idea : CRDC: PreK Students Receiving Only One Suspension. Female. IDEA.
+crdc_pk_mult_oss_m_hisp : CRDC: PreK Students Receiving Multiple Suspensions. Male. Hispanic.
+crdc_pk_mult_oss_m_ame : CRDC: PreK Students Receiving Multiple Suspensions. Male. American Native.
+crdc_pk_mult_oss_m_asian : CRDC: PreK Students Receiving Multiple Suspensions. Male. Asian.
+crdc_pk_mult_oss_m_nhpi : CRDC: PreK Students Receiving Multiple Suspensions. Male. Pacific Islander.
+crdc_pk_mult_oss_m_black : CRDC: PreK Students Receiving Multiple Suspensions. Male. Black.
+crdc_pk_mult_oss_m_white : CRDC: PreK Students Receiving Multiple Suspensions. Male. White.
+crdc_pk_mult_oss_m_tr : CRDC: PreK Students Receiving Multiple Suspensions. Male. Two or More Races.
+crdc_pk_mult_oss_m_total : CRDC: PreK Students Receiving Multiple Suspensions. Male. Total.
+crdc_pk_mult_oss_m_lep : CRDC: PreK Students Receiving Multiple Suspensions. Male. LEP.
+crdc_pk_mult_oss_m_idea : CRDC: PreK Students Receiving Multiple Suspensions. Male. IDEA.
+crdc_pk_mult_oss_f_hisp : CRDC: PreK Students Receiving Multiple Suspensions. Female. Hispanic.
+crdc_pk_mult_oss_f_ame : CRDC: PreK Students Receiving Multiple Suspensions. Female. American Native.
+crdc_pk_mult_oss_f_asian : CRDC: PreK Students Receiving Multiple Suspensions. Female. Asian.
+crdc_pk_mult_oss_f_nhpi : CRDC: PreK Students Receiving Multiple Suspensions. Female. Pacific Islander.
+crdc_pk_mult_oss_f_black : CRDC: PreK Students Receiving Multiple Suspensions. Female. Black.
+crdc_pk_mult_oss_f_white : CRDC: PreK Students Receiving Multiple Suspensions. Female. White.
+crdc_pk_mult_oss_f_tr : CRDC: PreK Students Receiving Multiple Suspensions. Female. Two or More Races.
+crdc_pk_mult_oss_f_total : CRDC: PreK Students Receiving Multiple Suspensions. Female. Total.
+crdc_pk_mult_oss_f_lep : CRDC: PreK Students Receiving Multiple Suspensions. Female. LEP.
+crdc_pk_mult_oss_f_idea : CRDC: PreK Students Receiving Multiple Suspensions. Female. IDEA.
+crdc_pk_exp_m_hisp : CRDC: PreK Students Receiving An Expulsion. Male. Hispanic.
+crdc_pk_exp_m_ame : CRDC: PreK Students Receiving An Expulsion. Male. American Native.
+crdc_pk_exp_m_asian : CRDC: PreK Students Receiving An Expulsion. Male. Asian.
+crdc_pk_exp_m_nhpi : CRDC: PreK Students Receiving An Expulsion. Male. Pacific Islander.
+crdc_pk_exp_m_black : CRDC: PreK Students Receiving An Expulsion. Male. Black.
+crdc_pk_exp_m_white : CRDC: PreK Students Receiving An Expulsion. Male. White.
+crdc_pk_exp_m_tr : CRDC: PreK Students Receiving An Expulsion. Male. Two or More Races.
+crdc_pk_exp_m_total : CRDC: PreK Students Receiving An Expulsion. Male. Total.
+crdc_pk_exp_m_lep : CRDC: PreK Students Receiving An Expulsion. Male. LEP.
+crdc_pk_exp_m_idea : CRDC: PreK Students Receiving An Expulsion. Male. IDEA.
+crdc_pk_exp_f_hisp : CRDC: PreK Students Receiving An Expulsion. Female. Hispanic.
+crdc_pk_exp_f_ame : CRDC: PreK Students Receiving An Expulsion. Female. American Native.
+crdc_pk_exp_f_asian : CRDC: PreK Students Receiving An Expulsion. Female. Asian.
+crdc_pk_exp_f_nhpi : CRDC: PreK Students Receiving An Expulsion. Female. Pacific Islander.
+crdc_pk_exp_f_black : CRDC: PreK Students Receiving An Expulsion. Female. Black.
+crdc_pk_exp_f_white : CRDC: PreK Students Receiving An Expulsion. Female. White.
+crdc_pk_exp_f_tr : CRDC: PreK Students Receiving An Expulsion. Female. Two or More Races.
+crdc_pk_exp_f_total : CRDC: PreK Students Receiving An Expulsion. Female. Total.
+crdc_pk_exp_f_lep : CRDC: PreK Students Receiving An Expulsion. Female. LEP.
+crdc_pk_exp_f_idea : CRDC: PreK Students Receiving An Expulsion. Female. IDEA.
+crdc_single_oss_m_hisp : CRDC: Students Receiving Only One Suspension. Male. Hispanic.
+crdc_single_oss_m_ame : CRDC: Students Receiving Only One Suspension. Male. American Native.
+crdc_single_oss_m_asian : CRDC: Students Receiving Only One Suspension. Male. Asian.
+crdc_single_oss_m_nhpi : CRDC: Students Receiving Only One Suspension. Male. Pacific Islander.
+crdc_single_oss_m_black : CRDC: Students Receiving Only One Suspension. Male. Black.
+crdc_single_oss_m_white : CRDC: Students Receiving Only One Suspension. Male. White.
+crdc_single_oss_m_tr : CRDC: Students Receiving Only One Suspension. Male. Two or More Races.
+crdc_single_oss_m_total : CRDC: Students Receiving Only One Suspension. Male. Total.
+crdc_single_oss_m_lep : CRDC: Students Receiving Only One Suspension. Male. LEP.
+crdc_single_oss_m_idea : CRDC: Students Receiving Only One Suspension. Male. IDEA.
+crdc_single_oss_f_hisp : CRDC: Students Receiving Only One Suspension. Female. Hispanic.
+crdc_single_oss_f_ame : CRDC: Students Receiving Only One Suspension. Female. American Native.
+crdc_single_oss_f_asian : CRDC: Students Receiving Only One Suspension. Female. Asian.
+crdc_single_oss_f_nhpi : CRDC: Students Receiving Only One Suspension. Female. Pacific Islander.
+crdc_single_oss_f_black : CRDC: Students Receiving Only One Suspension. Female. Black.
+crdc_single_oss_f_white : CRDC: Students Receiving Only One Suspension. Female. White.
+crdc_single_oss_f_tr : CRDC: Students Receiving Only One Suspension. Female. Two or More Races.
+crdc_single_oss_f_total : CRDC: Students Receiving Only One Suspension. Female. Total.
+crdc_single_oss_f_lep : CRDC: Students Receiving Only One Suspension. Female. LEP.
+crdc_single_oss_f_idea : CRDC: Students Receiving Only One Suspension. Female. IDEA.
+crdc_mult_oss_m_hisp : CRDC: Students Receiving Multiple Suspensions. Male. Hispanic.
+crdc_mult_oss_m_ame : CRDC: Students Receiving Multiple Suspensions. Male. American Native.
+crdc_mult_oss_m_asian : CRDC: Students Receiving Multiple Suspensions. Male. Asian.
+crdc_mult_oss_m_nhpi : CRDC: Students Receiving Multiple Suspensions. Male. Pacific Islander.
+crdc_mult_oss_m_black : CRDC: Students Receiving Multiple Suspensions. Male. Black.
+crdc_mult_oss_m_white : CRDC: Students Receiving Multiple Suspensions. Male. White.
+crdc_mult_oss_m_tr : CRDC: Students Receiving Multiple Suspensions. Male. Two or More Races.
+crdc_mult_oss_m_total : CRDC: Students Receiving Multiple Suspensions. Male. Total.
+crdc_mult_oss_m_lep : CRDC: Students Receiving Multiple Suspensions. Male. LEP.
+crdc_mult_oss_m_idea : CRDC: Students Receiving Multiple Suspensions. Male. IDEA.
+crdc_mult_oss_f_hisp : CRDC: Students Receiving Multiple Suspensions. Female. Hispanic.
+crdc_mult_oss_f_ame : CRDC: Students Receiving Multiple Suspensions. Female. American Native.
+crdc_mult_oss_f_asian : CRDC: Students Receiving Multiple Suspensions. Female. Asian.
+crdc_mult_oss_f_nhpi : CRDC: Students Receiving Multiple Suspensions. Female. Pacific Islander.
+crdc_mult_oss_f_black : CRDC: Students Receiving Multiple Suspensions. Female. Black.
+crdc_mult_oss_f_white : CRDC: Students Receiving Multiple Suspensions. Female. White.
+crdc_mult_oss_f_tr : CRDC: Students Receiving Multiple Suspensions. Female. Two or More Races.
+crdc_mult_oss_f_total : CRDC: Students Receiving Multiple Suspensions. Female. Total.
+crdc_mult_oss_f_lep : CRDC: Students Receiving Multiple Suspensions. Female. LEP.
+crdc_mult_oss_f_idea : CRDC: Students Receiving Multiple Suspensions. Female. IDEA.
+crdc_exp_m_hisp : CRDC: Students Receiving An Expulsion. Male. Hispanic.
+crdc_exp_m_ame : CRDC: Students Receiving An Expulsion. Male. American Native.
+crdc_exp_m_asian : CRDC: Students Receiving An Expulsion. Male. Asian.
+crdc_exp_m_nhpi : CRDC: Students Receiving An Expulsion. Male. Pacific Islander.
+crdc_exp_m_black : CRDC: Students Receiving An Expulsion. Male. Black.
+crdc_exp_m_white : CRDC: Students Receiving An Expulsion. Male. White.
+crdc_exp_m_tr : CRDC: Students Receiving An Expulsion. Male. Two or More Races.
+crdc_exp_m_total : CRDC: Students Receiving An Expulsion. Male. Total.
+crdc_exp_m_lep : CRDC: Students Receiving An Expulsion. Male. LEP.
+crdc_exp_m_idea : CRDC: Students Receiving An Expulsion. Male. IDEA.
+crdc_exp_f_hisp : CRDC: Students Receiving An Expulsion. Female. Hispanic.
+crdc_exp_f_ame : CRDC: Students Receiving An Expulsion. Female. American Native.
+crdc_exp_f_asian : CRDC: Students Receiving An Expulsion. Female. Asian.
+crdc_exp_f_nhpi : CRDC: Students Receiving An Expulsion. Female. Pacific Islander.
+crdc_exp_f_black : CRDC: Students Receiving An Expulsion. Female. Black.
+crdc_exp_f_white : CRDC: Students Receiving An Expulsion. Female. White.
+crdc_exp_f_tr : CRDC: Students Receiving An Expulsion. Female. Two or More Races.
+crdc_exp_f_total : CRDC: Students Receiving An Expulsion. Female. Total.
+crdc_exp_f_lep : CRDC: Students Receiving An Expulsion. Female. LEP.
+crdc_exp_f_idea : CRDC: Students Receiving An Expulsion. Female. IDEA.

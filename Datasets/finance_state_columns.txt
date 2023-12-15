@@ -1,0 +1,431 @@
+year : Academic Year
+aun : Administrative Unit Number
+nces_leaid : Agency ID - NCES Assigned [District] Latest available year
+leaname : Local Education Agency (LEA) Name
+leatype : Local Education Agency (LEA) Type
+schoolnumber : PA School Code
+nces_schid : nces_schid
+schoolname : School Name
+opendate : Open Date
+closedate : Closed Date
+schooltype : School Type
+county : County
+gradeserved_pk : Grade Served: All Pre-K
+gradeserved_pka : Grade Served: AM Pre-K
+gradeserved_pkp : Grade Served: PM Pre-K
+gradeserved_pkf : Grade Served: Full Day Pre-K
+gradeserved_k : Grade Served: All Kindergarten
+gradeserved_k4a : Grade Served: Age 4 AM Kindergarten
+gradeserved_k4p : Grade Served: Age 4 PM Kindergarten
+gradeserved_k4f : Grade Served: Age 4 Full Day Kindergarten
+gradeserved_k5a : Grade Served: Age 5 AM Kindergarten
+gradeserved_k5p : Grade Served: Age 5 PM Kindergarten
+gradeserved_k5f : Grade Served: Age 5 Full Day Kindergarten
+gradeserved_1st : Grade Served: 1st Grade
+gradeserved_2nd : Grade Served: 2nd Grade
+gradeserved_3rd : Grade Served: 3rd Grade
+gradeserved_4th : Grade Served: 4th Grade
+gradeserved_5th : Grade Served: 5th Grade
+gradeserved_6th : Grade Served: 6th Grade
+gradeserved_7th : Grade Served: 7th Grade
+gradeserved_8th : Grade Served: 8th Grade
+gradeserved_9th : Grade Served: 9th Grade
+gradeserved_10th : Grade Served: 10th Grade
+gradeserved_11th : Grade Served: 11th Grade
+gradeserved_12th : Grade Served: 12th Grade
+gradeserved_ug : Grade Served: ug Grade
+exp_1000 : Expenditures: Instruction
+exp_2000 : Expenditures: Support Services
+exp_3000 : Expenditures: Non Instructional Services
+exp_current : Expenditures: Current 
+exp_4000 : Expenditures: Facilities Acquisition, Construction and Improvement
+exp_5000 : Expenditures: Other Expenditures and Financing Uses
+exp_total : Expenditures: Total
+exp_aie : Expenditures: Actual Instructional Expense
+exp_1100 : Expenditures: Regular Programs
+exp_1200 : Expenditures: Special and Gifted Education
+exp_1300 : Expenditures: Vocational Education Programs
+exp_1400 : Expenditures: Other Instructional Programs
+exp_1500 : Expenditures: Non Public School Programs
+exp_1600 : Expenditures: Adult Education Programs 
+exp_1700 : Expenditures: Community/Junior College Programs
+exp_1800 : Expenditures: Pre Kindergarten
+exp_2100 : Expenditures: Pupil Personnel
+exp_2200 : Expenditures: Instructional Staff
+exp_2300 : Expenditures: Administration
+exp_2400 : Expenditures: Pupil Health
+exp_2500 : Expenditures: Business
+exp_2600 : Expenditures: Operation and Maintenance of Plant Services
+exp_2700 : Expenditures: Student Transportation Services
+exp_2800 : Expenditures: Central
+exp_2900 : Expenditures: Other Support Services
+adm : Average Daily Membership
+wadm : Weighted Average Daily Membership
+exp_adm_1000 : Expenditures per ADM: Instruction
+exp_adm_2000 : Expenditures per ADM: Support Services
+exp_adm_3000 : Expenditures per ADM: Non Instructional Services 
+exp_adm_current : Expenditures per ADM: Current
+exp_adm_4000 : Expenditures per ADM: Facilities Acquisition, Construction and Improvement
+exp_adm_5000 : Expenditures per ADM: Other Expenditures and Financing Uses
+exp_adm_total : Expenditures per ADM: Total
+exp_wadm_aie : Expenditures per WADM: Actual Instructional Expense 
+exp_1140 : Expenditures: Early Learning Services
+exp_1190 : Expenditures: Federally-Funded Regular Programs
+exp_1210 : Expenditures: Life Skills Support
+exp_1220 : Expenditures: Sensory Support
+exp_1230 : Expenditures: Emotional Support
+exp_1241 : Expenditures: Learning Support. Public.
+exp_1242 : Expenditures: Learning Support. PRRI.
+exp_1243 : Expenditures: Gifted Support
+exp_1260 : Expenditures: Physical Support
+exp_1270 : Expenditures: Multi-Handicapped Support
+exp_1280 : Expenditures:  Special Programs.  Early Intervention Support
+exp_1290 : Expenditures: Special Programs. Other Support
+exp_1410 : Expenditures: Driver's Education
+exp_1420 : Expenditures: Summer School
+exp_1430 : Expenditures: Homebound Instruction
+exp_1440 : Expenditures: Alternative Regular Education Programs
+exp_1441 : Expenditures: Adjudicated/Court Placed Programs
+exp_1442 : Expenditures: PDE Approved Alternative Education Programs
+exp_1450 : Expenditures: Instructional Programs Outside of the Established School Day
+exp_1490 : Expenditures: Additional Other Instructional Programs
+exp_1801 : Expenditures: Pre-K Instruction
+exp_1802 : Expenditures: Pre-K Administrative Support
+exp_1803 : Expenditures: Pre-K Operations and Maintenance
+exp_1804 : Expenditures: Pre-K Student Transportation
+exp_1805 : Expenditures: Pre-K Food Services
+exp_1806 : Expenditures: Pre-K Professional Development
+exp_1807 : Expenditures: Pre-K Pass Through Funds (Partners)
+exp_2110 : Expenditures: Supervision of Student Services
+exp_2111 : Expenditures: Supervision of Student Services. Head of Component
+exp_2119 : Expenditures: Supervision of Student Services. All Other Supervision
+exp_2120 : Expenditures: Guidance Services
+exp_2130 : Expenditures: Attendance Services
+exp_2140 : Expenditures: Psychological Services
+exp_2150 : Expenditures: Speech Pathology and Audiology Services
+exp_2160 : Expenditures: Social Work Services
+exp_2170 : Expenditures: Student Accounting Services
+exp_2190 : Expenditures: Other Student Services
+exp_2211 : Expenditures: Supervision of Educational Media Services. Head of Component
+exp_2219 : Expenditures: Supervision of Educational Media Services. All Other Supervision
+exp_2220 : Expenditures: Technology Support Services
+exp_2230 : Expenditures: Educational Television Services
+exp_2240 : Expenditures: Computer Assisted Instruction Support Services
+exp_2250 : Expenditures: School Library Services
+exp_2260 : Expenditures: Instruction and Curriculum Development Services
+exp_2270 : Expenditures: Instructional Staff Professional Development Services
+exp_2280 : Expenditures: Non-Public Support Services
+exp_2290 : Expenditures: Other Instructional Staff Services
+exp_2310 : Expenditures: Board Services
+exp_2320 : Expenditures: Board Treasurer Services
+exp_2330 : Expenditures: Tax Assessment and Collection Services
+exp_2340 : Expenditures: Staff Relations and Negotiations Services
+exp_2350 : Expenditures: Legal and Accounting Services
+exp_2360 : Expenditures: Office of the Superintendent, Exec Director and CAO/CEO Services
+exp_2370 : Expenditures: Community Relations Services
+exp_2380 : Expenditures: Office of the Principal Services
+exp_2390 : Expenditures: Other Administration Services
+exp_2411 : Expenditures: Supervision of Health Services. Head of Component
+exp_2419 : Expenditures: Supervision of Health Services. All Other Supervision
+exp_2420 : Expenditures: Medical Services
+exp_2430 : Expenditures: Dental Services
+exp_2440 : Expenditures: Nursing Services
+exp_2450 : Expenditures: Non-Public Health Services
+exp_2490 : Expenditures: Other Health Services
+exp_2511 : Expenditures: Supervision of Fiscal Services. Head of Component
+exp_2512 : Expenditures: Budgeting Services
+exp_2513 : Expenditures: Receiving and Dispersing Funds Services
+exp_2514 : Expenditures: Payroll Services
+exp_2515 : Expenditures: Financial Accounting Services
+exp_2516 : Expenditures: Internal Auditing Services
+exp_2517 : Expenditures: Property Accounting Services
+exp_2519 : Expenditures: Other Fiscal Services
+exp_2520 : Expenditures: Purchasing Services
+exp_2530 : Expenditures: Warehousing and Distribution Services
+exp_2540 : Expenditures: Printing, Publishing and Duplicating Services
+exp_2590 : Expenditures: Other Support Services. Business
+exp_2611 : Expenditures: Supervision of Operation and Maintenance of Plant Services. Head
+exp_2619 : Expenditures: Supervision of Operation and Maintenance of Plant Services. Other
+exp_2620 : Expenditures: Operation of Buildings Services
+exp_2630 : Expenditures: Care and Upkeep of Grounds Services
+exp_2640 : Expenditures: Care and Upkeep of Equipment Services
+exp_2650 : Expenditures: Vehicle Operation and Maintenance Services. Not for Student Trans
+exp_2660 : Expenditures: Safety and Security Services
+exp_2690 : Expenditures: Other Operation and Maintenance of Plant Services
+exp_2711 : Expenditures: Supervision of Student Transportation Services. Head of Component
+exp_2719 : Expenditures: Supervision of Student Transportation Services. Other Supervision
+exp_2720 : Expenditures: Vehicle Operation Services
+exp_2730 : Expenditures: Monitoring Services
+exp_2740 : Expenditures: Vehicle Servicing and Maintenance Services
+exp_2750 : Expenditures: Non-Public Transportation Services
+exp_2790 : Expenditures: Other Student Transportation Services
+exp_2810 : Expenditures: Planning, Research, Development and Evaluation Services
+exp_2821 : Expenditures: Supervision of Information Services. Head of Component
+exp_2822 : Expenditures: Internal Information Services
+exp_2823 : Expenditures: Public Information Services
+exp_2824 : Expenditures: Management Information Services
+exp_2829 : Expenditures: Other Information Services
+exp_2831 : Expenditures: Supervision of Staff Services. Head of Component
+exp_2832 : Expenditures: Recruitment and Placement Services
+exp_2833 : Expenditures: Staff Accounting Services
+exp_2834 : Expenditures: Staff Development Services. Non-Instructional Certified Staff
+exp_2835 : Expenditures: Health Services
+exp_2836 : Expenditures: Staff Development Services. Non-Instructional, Non-Certified Staff
+exp_2839 : Expenditures: Other Staff Services
+exp_2840 : Expenditures: Data Processing Services
+exp_2850 : Expenditures: State and Federal Agency Liaison Services
+exp_2860 : Expenditures: Management Services
+exp_2890 : Expenditures: Other Support Services Central
+exp_2910 : Expenditures: Support Services Not Listed Elsewhere in the 2000 Series
+exp_2990 : Expenditures: Pass-Through Funds
+exp_3100 : Expenditures: Food Services
+exp_3200 : Expenditures: Student Activities
+exp_3300 : Expenditures: Community Services
+exp_3400 : Expenditures: Scholarships and Awards
+exp_4100 : Expenditures: Site Acquisition Services. Original & Additional
+exp_4200 : Expenditures: Existing Site Improvement Services
+exp_4300 : Expenditures: Arch & Eng Services/ Ed Specs Development. Original & Additional
+exp_4400 : Expenditures: Arch & Eng Services/ Ed Specs. Improvements
+exp_4500 : Expenditures: Building Acquisition & Construction Services. Original & Additiona
+exp_4600 : Expenditures: Existing Building Improvement Services
+exp_5100 : Expenditures: Debt Service, Other Expenditures, and Financing Uses
+exp_5110 : Expenditures: Debt Service
+exp_5120 : Expenditures: Debt Service. Refunded Bonds
+exp_5130 : Expenditures: Refund of Prior Year Revenues/Receipts
+exp_5140 : Expenditures: Short-Term Borrowing Interests and Costs
+exp_5150 : Expenditures: Bond Discounts
+exp_5200 : Expenditures: Interfund Transfers. Out
+exp_5220 : Expenditures: Special Revenue Fund Transfers
+exp_5230 : Expenditures: Capital Projects Fund Transfers
+exp_5240 : Expenditures: Debt Service Fund Transfers
+exp_5250 : Expenditures: Enterprise Fund Transfers
+exp_5260 : Expenditures: Internal Service Fund Transfers
+exp_5270 : Expenditures: Trust and Agency Fund Transfers
+exp_5280 : Expenditures: Activity Fund Transfers
+exp_5290 : Expenditures: Permanent Fund Transfers
+exp_5300 : Expenditures: Transfers Out to Component Units/Primary Government
+exp_5310 : Expenditures: Transfers Out to Component Units
+exp_5320 : Expenditures: Transfers Out to Primary Governments
+exp_5520 : Expenditures: Special Items-Losses
+exp_5530 : Expenditures: Extraordinary Items-Losses
+exp_100 : Expenditures Major Object: Personnel Services. Salaries.
+exp_200 : Expenditures Major Object: Personnel Services. Employee Benefits
+exp_220 : Expenditures Major Object: Social Security Contributions
+exp_230 : Expenditures Major Object: Retirement Contributions
+exp_300 : Expenditures Major Object: Purchased Professional and Technical Services
+exp_400 : Expenditures Major Object: Purchased Property Services
+exp_500 : Expenditures Major Object: Other Purchased Services
+exp_600 : Expenditures Major Object: Supplies
+exp_700 : Expenditures Major Object: Property
+exp_800 : Expenditures Major Object: Other Objects
+exp_900 : Expenditures Major Object: Other Uses of Funds
+exp_tuition_othsd : Expenditures: Tuition to Other School Districts in the State
+exp_tuition_charter_brck_nonspec : Expenditures: Tuition to Brick & Mortar Charter Schools. Non-Special
+exp_tuition_charter_cyb_nonspec : Expenditures: Tuition to Cyber Charter Schools. Non-Special
+exp_tuition_charter_brck_spec : Expenditures: Tuition to Brick & Mortar Charter Schools. Special
+exp_tuition_charter_cyb_spec : Expenditures: Tuition to Cyber Charter Schools. Special
+exp_tuition_nonpublic : Expenditures: Tuition to Non-Public Schools
+exp_tuition_ctc : Expenditures: Tuition to Career & Technology Centers
+exp_tuition_highered : Expenditures: Tuition to Higher Ed. & Technical Institutes
+exp_tuition_private : Expenditures: Tuition to Approved Private Schools
+exp_tuition_prris : Expenditures: Tuition to PRRIs & Detention Centers
+exp_tuition_othlea : Expenditures: Tuition to Other Local Education Agencies
+exp_tuition_charter_nonspec : Expenditures: Tuition to Charter Schools. Total. Non-Special
+exp_tuition_charter_spec : Expenditures: Tuition to Charter Schools. Total. Special
+exp_tuition_charter : Expenditures: Tuition to Charter Schools. Grand Total
+exp_tuition_unassigned : Expenditures: Unassigned Tuition Expenditures
+rev_total : Revenues: Total
+rev_local_tax : Revenues: Local Taxes (6111-6400)
+rev_local_other : Revenues: Local Other (6500-6999)
+rev_6000 : Revenues: Local Revenue. Total
+rev_local_pct : Revenues: Local Percent of Total Revenue
+rev_7000 : Revenues: State Revenue. Total
+rev_state_pct : Revenues: State Percent of Total Revenue
+rev_8000 : Revenues: Federal Revenue. Total
+rev_federal_pct : Revenues: Federal Percent of Total Revenue
+rev_9000 : Revenues: Other Revenue. Total
+rev_other_pct : Revenues: Other Percent of Total Revenue
+rev_adm_total : Revenues per ADM: Total
+rev_adm_local : Revenues per ADM: Local
+rev_adm_state : Revenues per ADM: State
+rev_adm_federal : Revenues per ADM: Federal
+rev_adm_other : Revenues per ADM: Other
+rev_tax_total : Revenues Taxes Collected: Total
+rev_tax_realestate : Revenues Taxes Collected: Current and Interim Real Estate
+rev_tax_realty : Revenues Taxes Collected: Public Utility Realty
+rev_tax_lieu : Revenues Taxes Collected: Payment in Lieu of Taxes
+rev_tax_percapita : Revenues Taxes Collected: 679 Per Capita
+rev_tax_1stclass : Revenues Taxes Collected: Act 1, Act 511 and First Class SD Taxes
+rev_tax_delinquent : Revenues Taxes Collected: Delinquent
+rev_tax_steb : STEB Market Value
+rev_eq_mills : Equalized Mills
+rev_6111 : Revenues Local: Current Real Estate Taxes
+rev_6112 : Revenues Local: Interim Real Estate Taxes
+rev_6113 : Revenues Local: Public Utility Realty Tax
+rev_6114 : Revenues Local: Payment in Lieu State & Local
+rev_6115 : Revenues Local: Payment in Lieu Federal
+rev_6120 : Revenues Local: Per Capita, Section 679
+rev_6131 : Revenues Local: Current Act 1 Earned Income Tax
+rev_6141 : Revenues Local: Current Act 511 Per Capita Taxes
+rev_6142 : Revenues Local: Current Act 511 Occupation Taxes-Flat Rate
+rev_6143 : Revenues Local: Current Act 511 Local Services Taxes
+rev_6144 : Revenues Local: Current Act 511 Trailer Taxes
+rev_6145 : Revenues Local: Current Act 511 Business Privilege Taxes-Flat Rate
+rev_6146 : Revenues Local: Current Act 511 Mechanical Device Taxes-Flat Rate
+rev_6149 : Revenues Local: Current Act 511 Taxes-Other Flat Rate Assessments
+rev_6151 : Revenues Local: Current Act 511 Earned Income Taxes
+rev_6152 : Revenues Local: Current Act 511 Occupation Taxes
+rev_6153 : Revenues Local: Current Act 511 Real Estate Transfer Taxes
+rev_6154 : Revenues Local: Current Act 511 Amusement Taxes
+rev_6155 : Revenues Local: Current Act 511 Business Privilege Taxes
+rev_6156 : Revenues Local: Current Act 511 Mechanical Device Taxes-Percentage
+rev_6157 : Revenues Local: Current Act 511 Mercantile Taxes
+rev_6159 : Revenues Local: Current Act 511 Taxes-Other Proportional Assessments
+rev_6161 : Revenues Local: Earned Income Tax
+rev_6162 : Revenues Local: Liquor Sales Tax
+rev_6163 : Revenues Local: Cigarette Tax
+rev_6164 : Revenues Local: Sales and Use Tax
+rev_6165 : Revenues Local: General Business Taxes
+rev_6166 : Revenues Local: Business Use & Occupancy Tax
+rev_6167 : Revenues Local: Non-Business Income Tax
+rev_6168 : Revenues Local: Real Estate Transfer Tax
+rev_6169 : Revenues Local: Current Mercantile Taxes
+rev_6400 : Revenues Local: Delinquent Taxes
+rev_6500 : Revenues Local: Earnings on Investments
+rev_6600 : Revenues Local: Food Service Revenue
+rev_6700 : Revenues Local: Revenue from District Activities
+rev_6810 : Revenues Local: Revenue from Local Gov't Units
+rev_6821 : Revenues Local: State Revenue from Other Public Schools
+rev_6829 : Revenues Local: State Revenue from Intermediate Sources
+rev_6831 : Revenues Local: Federal Revenue from Other PA Public Schools
+rev_6832 : Revenues Local: Federal IDEA Revenue Received as Pass Through
+rev_6833 : Revenues Local: ARRA - IDEA Revenue received as Pass Through
+rev_6834 : Revenues Local: ARRA - WIA Revenue received as Pass Through
+rev_6835 : Revenues Local: ARRA - Title I Revenue Received as Pass Through
+rev_6836 : Revenues Local: ARRA - Race to the Top Revenue Received as Pass Through
+rev_6839 : Revenues Local: Federal Revenue from Intermediate Sources
+rev_6890 : Revenues Local: Other Revenue from Intermediate Sources
+rev_6910 : Revenues Local: Rentals
+rev_6920 : Revenues Local: Contributions from Private Sources
+rev_6941 : Revenues Local: Regular Day School Tuition
+rev_6942 : Revenues Local: Summer School Tuition
+rev_6943 : Revenues Local: Adult Education Tuition
+rev_6944 : Revenues Local: Receipts from Other LEAs in PA - Education
+rev_6945 : Revenues Local: Receipts from Out-of-State LEAs
+rev_6946 : Revenues Local: Receipts From Member Districts – AVTS / Special Program Jointure
+rev_6949 : Revenues Local: Other Tuition from Patrons
+rev_6961 : Revenues Local: Transportation Services Provided Other PA LEAs
+rev_6962 : Revenues Local: All Other Services Provided Other PA LEAs
+rev_6969 : Revenues Local: All Other Services Provided Other Govt's and LEAs Not Specified 
+rev_6970 : Revenues Local: Services Provided Other Funds
+rev_6980 : Revenues Local: Revenue from Community Services Activities
+rev_6991 : Revenues Local: Refunds of a Prior Year Expenditure
+rev_6992 : Revenues Local: Energy Efficiency Revenues and Incentives
+rev_6999 : Revenues Local: Other Revenues Not Specified Elsewhere
+rev_7110 : Revenues State: Basic Education Funding
+rev_7140 : Revenues State: Charter Schools
+rev_7160 : Revenues State: Tuition for Orphans & Children Placed in Private Homes
+rev_7170 : Revenues State: School Improvement Grants
+rev_7180 : Revenues State: Staff and Program Development
+rev_7210 : Revenues State: Homebound Instruction
+rev_7220 : Revenues State: Vocational Education
+rev_7230 : Revenues State: Alternative Education
+rev_7240 : Revenues State: Driver Education
+rev_7250 : Revenues State: Migratory Children
+rev_7260 : Revenues State: Workforce Investment Act
+rev_7271 : Revenues State: Special Education Funding for School Aged Pupils
+rev_7272 : Revenues State: Early Intervention
+rev_7280 : Revenues State: Adult Literacy
+rev_7291 : Revenues State: Education Assistance Program (Tutoring)
+rev_7292 : Revenues State: Pre-K Counts
+rev_7299 : Revenues State: Program Revenues Not Listed Previously
+rev_7310 : Revenues State: Transportation (Regular and Additional)
+rev_7311 : Revenues State: Pupil Transportation Subsidy
+rev_7312 : Revenues State: Nonpublic and Charter School Pupil Transportation Subsidy
+rev_7320 : Revenues State: Rental & Sinking Fund Payments / Building Reimbursement Subsidy
+rev_7330 : Revenues State: Health Services (Medical, Dental, Nurse, Act 25)
+rev_7340 : Revenues State: State Property Tax Reduction Allocation
+rev_7350 : Revenues State: Sewage Treatment Operations / Environmental Subsidies
+rev_7360 : Revenues State: Safe Schools
+rev_7400 : Revenues State: Vocational Training of the Unemployed
+rev_7501 : Revenues State: PA Accountability Grants
+rev_7502 : Revenues State: Dual Enrollment Grants
+rev_7503 : Revenues State: Project 720 / High School Reform
+rev_7505 : Revenues State: Ready to Learn Block Grant
+rev_7509 : Revenues State: Supplemental Equipment Grants
+rev_7510 : Revenues State: Voc Ed Tutoring Funds
+rev_7598 : Revenues State: Revenue for the Support of Public Schools
+rev_7599 : Revenues State: Other State Revenue Not Listed Elsewhere
+rev_7600 : Revenues State: Revenue for Milk, Lunch & Breakfast Programs
+rev_7810 : Revenues State: State Share of Social Security & Medicare Taxes
+rev_7820 : Revenues State: State Share of Retirement Contributions
+rev_7910 : Revenues State: Educational Technology
+rev_7920 : Revenues State: Classrooms for the Future
+rev_7990 : Revenues State: Other Technology Grants
+rev_8110 : Revenues Federal: Payments for Federally Impacted Areas
+rev_8190 : Revenues Federal: Other Unrestricted Grants-in-Aid from the Federal Government
+rev_8200 : Revenues Federal: Unrestricted Grants-in-Aid from the Fed Gov through the State
+rev_8310 : Revenues Federal: Payments for Federally Impacted Areas
+rev_8320 : Revenues Federal: Energy Conservation Grants - TA and ECM
+rev_8390 : Revenues Federal: Other Restricted-Aid from the Federal Government
+rev_8511 : Revenues Federal: Grants for IDEA and NCLB Programs Not Specified Elsewhere
+rev_8512 : Revenues Federal: IDEA, Part B
+rev_8513 : Revenues Federal: IDEA, Section 619
+rev_8514 : Revenues Federal: NCLB Title I - Improving Academic Achievement of Disadvantaged
+rev_8515 : Revenues Federal: NCLB Title II - Preparing & Recruiting Teachers & Principals
+rev_8516 : Revenues Federal: NCLB Title III - Language Instr. for LEP & Immigrant Students
+rev_8517 : Revenues Federal: NCLB Title IV - 21st Century Schools
+rev_8518 : Revenues Federal: NCLB Title V - Promoting Informed Parent Choice & Initiative 
+rev_8519 : Revenues Federal: NCLB Title VI - Flexibility and Accountability
+rev_8521 : Revenues Federal: Vocational Education - Operating Expenditures
+rev_8522 : Revenues Federal: Vocational Education - Capital Outlay
+rev_8530 : Revenues Federal: Child Nutrition Program
+rev_8540 : Revenues Federal: Nutrition Education and Training
+rev_8560 : Revenues Federal: Federal Block Grants
+rev_8580 : Revenues Federal: Child Care and Development Block Grants
+rev_8610 : Revenues Federal: Homeless Assistance Act
+rev_8620 : Revenues Federal: Adult Basic Education
+rev_8640 : Revenues Federal: Economic Opportunity Act (Headstart)
+rev_8660 : Revenues Federal: Workforce Investment Act (WIA)
+rev_8670 : Revenues Federal: Drug Free Schools
+rev_8690 : Revenues Federal: Other Restricted Federal Grants-in-Aid Through the State
+rev_8701 : Revenues Federal: ARRA - IDEA, Part B
+rev_8702 : Revenues Federal: ARRA - IDEA, Section 619
+rev_8703 : Revenues Federal: ARRA - Title I, Parts A & D
+rev_8704 : Revenues Federal: ARRA - Title I, School Improvement
+rev_8705 : Revenues Federal: ARRA - Title II, Part D, Education Technology
+rev_8706 : Revenues Federal: ARRA - McKinney-Vento Homeless
+rev_8707 : Revenues Federal: ARRA - National School Lunch Program Equipment
+rev_8708 : Revenues Federal: ARRA - State Fiscal Stabilization Fund
+rev_8709 : Revenues Federal: ARRA - Education Jobs Fund (EduJobs)
+rev_8721 : Revenues Federal: ARRA - Head Start
+rev_8731 : Revenues Federal: ARRA - Build America Bonds
+rev_8732 : Revenues Federal: ARRA - Qualified School Construction Bonds (QSCB)
+rev_8733 : Revenues Federal: ARRA - Qualified Zone Academy Bonds (QZAB)
+rev_8735 : Revenues Federal: ARRA - Qualified Energy Conservation Bonds (QECB)
+rev_8799 : Revenues Federal: ARRA - Miscellaneous
+rev_8810 : Revenues Federal: School Based Access Medicaid Reimbursement Program (SBAP)
+rev_8820 : Revenues Federal: Medical Assistance Reimbursements for Administrative Claiming
+rev_8830 : Revenues Federal: Medical Assistance Reimbursement (ACCESS) - Early Intervention
+rev_9110 : Revenues Other: Bond Issue Proceeds (Gross)
+rev_9120 : Revenues Other: Proceeds from Refunding of Bonds
+rev_9130 : Revenues Other: Bond Premiums
+rev_9200 : Revenues Other: Proceeds from Extended Term Financing
+rev_9210 : Revenues Other: Proceeds from Commonwealth of PA Loans
+rev_9290 : Revenues Other: Other Extended Term Financing Proceeds
+rev_9320 : Revenues Other: Special Revenue Fund Transfers
+rev_9330 : Revenues Other: Capital Projects Fund Transfers
+rev_9340 : Revenues Other: Dept Service Fund Transfers
+rev_9350 : Revenues Other: Enterprise Fund Transfers
+rev_9360 : Revenues Other: Internal Service Fund Transfers
+rev_9370 : Revenues Other: Trust and Agency Fund Transfers
+rev_9380 : Revenues Other: Activity Fund Transfers
+rev_9390 : Revenues Other: Permanent Fund Transfers
+rev_9400 : Revenues Other: Sale or Compensatio for Loss of Fixed Assets
+rev_9500 : Revenues Other: Capital Contributions
+rev_9710 : Revenues Other: Transfers from Component Units
+rev_9720 : Revenues Other: Transfers from Primary Governments
+rev_9910 : Revenues Other: Other Financing Sources Not Listed in the 9000 Series
+rev_9920 : Revenues Other: Special Items - Gains
+rev_9930 : Revenues Other: Extraordinary Items - Gains
+rev_9990 : Revenues Other: Insurance Recoveries

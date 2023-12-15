@@ -1,0 +1,171 @@
+year : Academic Year
+aun : Administrative Unit Number
+nces_leaid : Agency ID - NCES Assigned [District] Latest available year
+leaname : Local Education Agency (LEA) Name
+leatype : Local Education Agency (LEA) Type
+schoolnumber : PA School Code
+nces_schid : nces_schid
+schoolname : School Name
+opendate : Opened Date
+closedate : Closed Date
+schooltype : School Type
+county : County
+gradeserved_pk : Grade Served: All Pre-K
+gradeserved_pka : Grade Served: AM Pre-K
+gradeserved_pkp : Grade Served: PM Pre-K
+gradeserved_pkf : Grade Served: Full Day Pre-K
+gradeserved_k : Grade Served: All Kindergarten
+gradeserved_k4a : Grade Served: Age 4 AM Kindergarten
+gradeserved_k4p : Grade Served: Age 4 PM Kindergarten
+gradeserved_k4f : Grade Served: Age 4 Full Day Kindergarten
+gradeserved_k5a : Grade Served: Age 5 AM Kindergarten
+gradeserved_k5p : Grade Served: Age 5 PM Kindergarten
+gradeserved_k5f : Grade Served: Age 5 Full Day Kindergarten
+gradeserved_1st : Grade Served: 1st Grade
+gradeserved_2nd : Grade Served: 2nd Grade
+gradeserved_3rd : Grade Served: 3rd Grade
+gradeserved_4th : Grade Served: 4th Grade
+gradeserved_5th : Grade Served: 5th Grade
+gradeserved_6th : Grade Served: 6th Grade
+gradeserved_7th : Grade Served: 7th Grade
+gradeserved_8th : Grade Served: 8th Grade
+gradeserved_9th : Grade Served: 9th Grade
+gradeserved_10th : Grade Served: 10th Grade
+gradeserved_11th : Grade Served: 11th Grade
+gradeserved_12th : Grade Served: 12th Grade
+gradeserved_ug : Grade Served: ug Grade
+crdc_lea_deseg : CRDC: LEA Covered by a Desegregation Order or Plan
+crdc_lea_pk_all : CRDC: LEA Pre-K Services Available to All Students
+crdc_lea_pk_dis : CRDC: LEA Pre-K Services Available to Students with Disabilities
+crdc_lea_pk_titlei : CRDC: LEA Pre-K Services Available to Students in Title I Schools
+crdc_lea_pk_lowinc : CRDC: LEA Pre-K Services Available to Low Income Students
+crdc_lea_pk_idea_only : CRDC: LEA Pre-K Services Available to IDEA students Only
+crdc_lea_pk_nonidea_age2 : CRDC: LEA Pre-K Services Available to Non-IDEA Students Aged 0-2
+crdc_lea_pk_nonidea_age3 : CRDC: LEA Pre-K Services Available to Non-IDEA Students Aged 3
+crdc_lea_pk_nonidea_age4 : CRDC: LEA Pre-K Services Available to Non-IDEA Students Aged 4
+crdc_sch_gte : CRDC: Indicator for Gifted/Talented Program Offering
+crdc_gt_m_hisp : CRDC: Enrollment in Gifted/Talented Program. Male. Hispanic.
+crdc_gt_m_ame : CRDC: Enrollment in Gifted/Talented Program. Male. American Native.
+crdc_gt_m_asian : CRDC: Enrollment in Gifted/Talented Program. Male. Asian.
+crdc_gt_m_nhpi : CRDC: Enrollment in Gifted/Talented Program. Male. Pacific Islander.
+crdc_gt_m_black : CRDC: Enrollment in Gifted/Talented Program. Male. Black.
+crdc_gt_m_white : CRDC: Enrollment in Gifted/Talented Program. Male. White.
+crdc_gt_m_tr : CRDC: Enrollment in Gifted/Talented Program. Male. Two or More Races.
+crdc_gt_m_lep : CRDC: Enrollment in Gifted/Talented Program. Male. LEP.
+crdc_gt_m_idea : CRDC: Enrollment in Gifted/Talented Program. Male. IDEA.
+crdc_gt_m_total : CRDC: Enrollment in Gifted/Talented Program. Male. Total.
+crdc_gt_f_hisp : CRDC: Enrollment in Gifted/Talented Program. Female. Hispanic.
+crdc_gt_f_ame : CRDC: Enrollment in Gifted/Talented Program. Female. American Native.
+crdc_gt_f_asian : CRDC: Enrollment in Gifted/Talented Program. Female. Asian.
+crdc_gt_f_nhpi : CRDC: Enrollment in Gifted/Talented Program. Female. Pacific Islander.
+crdc_gt_f_black : CRDC: Enrollment in Gifted/Talented Program. Female. Black.
+crdc_gt_f_white : CRDC: Enrollment in Gifted/Talented Program. Female. White.
+crdc_gt_f_tr : CRDC: Enrollment in Gifted/Talented Program. Female. Two or More Races.
+crdc_gt_f_lep : CRDC: Enrollment in Gifted/Talented Program. Female. LEP.
+crdc_gt_f_idea : CRDC: Enrollment in Gifted/Talented Program. Female. IDEA.
+crdc_gt_f_total : CRDC: Enrollment in Gifted/Talented Program. Female. Total.
+crdc_sch_apenr_ind : CRDC: Indicator if Any Students are Enrolled in AP Courses
+crdc_sch_apsel : CRDC: Indicator for AP Course Self-Selection
+crdc_sch_apcourse : CRDC: Number of Different AP Courses Provided
+crdc_ap_one_m_hisp : CRDC: Enrollment in At Least One AP Course. Male. Hispanic.
+crdc_ap_one_m_ame : CRDC: Enrollment in At Least One AP Course. Male. American Native.
+crdc_ap_one_m_asian : CRDC: Enrollment in At Least One AP Course. Male. Asian.
+crdc_ap_one_m_nhpi : CRDC: Enrollment in At Least One AP Course. Male. Pacific Islander.
+crdc_ap_one_m_black : CRDC: Enrollment in At Least One AP Course. Male. Black.
+crdc_ap_one_m_white : CRDC: Enrollment in At Least One AP Course. Male. White.
+crdc_ap_one_m_tr : CRDC: Enrollment in At Least One AP Course. Male. Two or More Races.
+crdc_ap_one_m_lep : CRDC: Enrollment in At Least One AP Course. Male. LEP.
+crdc_ap_one_m_idea : CRDC: Enrollment in At Least One AP Course. Male. IDEA.
+crdc_ap_one_m_total : CRDC: Enrollment in At Least One AP Course. Male. Total.
+crdc_ap_math_m_hisp : CRDC: Enrollment in Math AP Course. Male. Hispanic.
+crdc_ap_math_m_ame : CRDC: Enrollment in Math AP Course. Male. American Native.
+crdc_ap_math_m_asian : CRDC: Enrollment in Math AP Course. Male. Asian.
+crdc_ap_math_m_nhpi : CRDC: Enrollment in Math AP Course. Male. Pacific Islander.
+crdc_ap_math_m_black : CRDC: Enrollment in Math AP Course. Male. Black.
+crdc_ap_math_m_white : CRDC: Enrollment in Math AP Course. Male. White.
+crdc_ap_math_m_tr : CRDC: Enrollment in Math AP Course. Male. Two or More Races.
+crdc_ap_math_m_lep : CRDC: Enrollment in Math AP Course. Male. LEP.
+crdc_ap_math_m_idea : CRDC: Enrollment in Math AP Course. Male. IDEA.
+crdc_ap_math_m_total : CRDC: Enrollment in Math AP Course. Male. Total.
+crdc_ap_science_m_hisp : CRDC: Enrollment in Science AP Course. Male. Hispanic.
+crdc_ap_science_m_ame : CRDC: Enrollment in Science AP Course. Male. American Native.
+crdc_ap_science_m_asian : CRDC: Enrollment in Science AP Course. Male. Asian.
+crdc_ap_science_m_nhpi : CRDC: Enrollment in Science AP Course. Male. Pacific Islander.
+crdc_ap_science_m_black : CRDC: Enrollment in Science AP Course. Male. Black.
+crdc_ap_science_m_white : CRDC: Enrollment in Science AP Course. Male. White.
+crdc_ap_science_m_tr : CRDC: Enrollment in Science AP Course. Male. Two or More Races.
+crdc_ap_science_m_lep : CRDC: Enrollment in Science AP Course. Male. LEP.
+crdc_ap_science_m_idea : CRDC: Enrollment in Science AP Course. Male. IDEA.
+crdc_ap_science_m_total : CRDC: Enrollment in Science AP Course. Male. Total.
+crdc_ap_other_m_hisp : CRDC: Enrollment in Other AP Course. Male. Hispanic.
+crdc_ap_other_m_ame : CRDC: Enrollment in Other AP Course. Male. American Native.
+crdc_ap_other_m_asian : CRDC: Enrollment in Other AP Course. Male. Asian.
+crdc_ap_other_m_nhpi : CRDC: Enrollment in Other AP Course. Male. Pacific Islander.
+crdc_ap_other_m_black : CRDC: Enrollment in Other AP Course. Male. Black.
+crdc_ap_other_m_white : CRDC: Enrollment in Other AP Course. Male. White.
+crdc_ap_other_m_tr : CRDC: Enrollment in Other AP Course. Male. Two or More Races.
+crdc_ap_other_m_lep : CRDC: Enrollment in Other AP Course. Male. LEP.
+crdc_ap_other_m_idea : CRDC: Enrollment in Other AP Course. Male. IDEA.
+crdc_ap_other_m_total : CRDC: Enrollment in Other AP Course. Male. Total.
+crdc_ap_one_f_hisp : CRDC: Enrollment in At Least One AP Course. Female. Hispanic.
+crdc_ap_one_f_ame : CRDC: Enrollment in At Least One AP Course. Female. American Native.
+crdc_ap_one_f_asian : CRDC: Enrollment in At Least One AP Course. Female. Asian.
+crdc_ap_one_f_nhpi : CRDC: Enrollment in At Least One AP Course. Female. Pacific Islander.
+crdc_ap_one_f_black : CRDC: Enrollment in At Least One AP Course. Female. Black.
+crdc_ap_one_f_white : CRDC: Enrollment in At Least One AP Course. Female. White.
+crdc_ap_one_f_tr : CRDC: Enrollment in At Least One AP Course. Female. Two or More Races.
+crdc_ap_one_f_lep : CRDC: Enrollment in At Least One AP Course. Female. LEP.
+crdc_ap_one_f_idea : CRDC: Enrollment in At Least One AP Course. Female. IDEA.
+crdc_ap_one_f_total : CRDC: Enrollment in At Least One AP Course. Female. Total.
+crdc_ap_math_f_hisp : CRDC: Enrollment in Math AP Course. Female. Hispanic.
+crdc_ap_math_f_ame : CRDC: Enrollment in Math AP Course. Female. American Native.
+crdc_ap_math_f_asian : CRDC: Enrollment in Math AP Course. Female. Asian.
+crdc_ap_math_f_nhpi : CRDC: Enrollment in Math AP Course. Female. Pacific Islander.
+crdc_ap_math_f_black : CRDC: Enrollment in Math AP Course. Female. Black.
+crdc_ap_math_f_white : CRDC: Enrollment in Math AP Course. Female. White.
+crdc_ap_math_f_tr : CRDC: Enrollment in Math AP Course. Female. Two or More Races.
+crdc_ap_math_f_lep : CRDC: Enrollment in Math AP Course. Female. LEP.
+crdc_ap_math_f_idea : CRDC: Enrollment in Math AP Course. Female. IDEA.
+crdc_ap_math_f_total : CRDC: Enrollment in Math AP Course. Female. Total.
+crdc_ap_science_f_hisp : CRDC: Enrollment in Science AP Course. Female. Hispanic.
+crdc_ap_science_f_ame : CRDC: Enrollment in Science AP Course. Female. American Native.
+crdc_ap_science_f_asian : CRDC: Enrollment in Science AP Course. Female. Asian.
+crdc_ap_science_f_nhpi : CRDC: Enrollment in Science AP Course. Female. Pacific Islander.
+crdc_ap_science_f_black : CRDC: Enrollment in Science AP Course. Female. Black.
+crdc_ap_science_f_white : CRDC: Enrollment in Science AP Course. Female. White.
+crdc_ap_science_f_tr : CRDC: Enrollment in Science AP Course. Female. Two or More Races.
+crdc_ap_science_f_lep : CRDC: Enrollment in Science AP Course. Female. LEP.
+crdc_ap_science_f_idea : CRDC: Enrollment in Science AP Course. Female. IDEA.
+crdc_ap_science_f_total : CRDC: Enrollment in Science AP Course. Female. Total.
+crdc_ap_other_f_hisp : CRDC: Enrollment in Other AP Course. Female. Hispanic.
+crdc_ap_other_f_ame : CRDC: Enrollment in Other AP Course. Female. American Native.
+crdc_ap_other_f_asian : CRDC: Enrollment in Other AP Course. Female. Asian.
+crdc_ap_other_f_nhpi : CRDC: Enrollment in Other AP Course. Female. Pacific Islander.
+crdc_ap_other_f_black : CRDC: Enrollment in Other AP Course. Female. Black.
+crdc_ap_other_f_white : CRDC: Enrollment in Other AP Course. Female. White.
+crdc_ap_other_f_tr : CRDC: Enrollment in Other AP Course. Female. Two or More Races.
+crdc_ap_other_f_lep : CRDC: Enrollment in Other AP Course. Female. LEP.
+crdc_ap_other_f_idea : CRDC: Enrollment in Other AP Course. Female. IDEA.
+crdc_ap_other_f_total : CRDC: Enrollment in Other AP Course. Female. Total.
+crdc_classes_alg1 : CRDC: Number of Algebra I Classes Offered
+crdc_classes_geometry : CRDC: Number of Geometry Classes Offered
+crdc_classes_alg2 : CRDC: Number of Algebra II Classes Offered
+crdc_classes_calculus : CRDC: Number of Calculus Classes Offered
+crdc_classes_biology : CRDC: Number of Biology Classes Offered
+crdc_classes_chemistry : CRDC: Number of Chemistry Classes Offered
+crdc_classes_physics : CRDC: Number of Physics Classes Offered
+crdc_athletics_ind : CRDC: Indicator for Interscholastic Athletics Offering
+crdc_sports_m : CRDC: Number of Single-Sex Sports Offered. For Males.
+crdc_sports_f : CRDC: Number of Single-Sex Sports Offered. For Females.
+crdc_sports_total : CRDC: Number of Single-Sex Sports Offered. Total.
+crdc_teams_m : CRDC: Number of Single-Sex Teams Offered. For Males.
+crdc_teams_f : CRDC: Number of Single-Sex Teams Offered. For Females.
+crdc_teams_total : CRDC: Number of Single-Sex Teams Offered. Total.
+crdc_athletics_part_m : CRDC: Number of Participants in Interscholastic Athletics. Male.
+crdc_athletics_part_f : CRDC: Number of Participants in Interscholastic Athletics. Female.
+crdc_athletics_part_total : CRDC: Number of Participants in Interscholastic Athletics. Total.
+crdc_fteteach_total : CRDC: FTE Teachers. Total.
+crdc_fteteech_cert : CRDC: FTE Teachers. Certified.
+crdc_fteteach_fy : CRDC: FTE Teachers in Their First Year
+crdc_fteteach_sy : CRDC: FTE Teachers in Their Second Year
+crdc_fteteach_absent : CRDC: FTE Teachers Who Are Chronically Absent (10 or More Days)
